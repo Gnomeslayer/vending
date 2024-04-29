@@ -1,0 +1,3607 @@
+{
+    "-2139580305": {
+        "link": "https://rustlabs.com/img/items180/autoturret.png",
+        "name": "Auto Turret",
+        "shortname": "autoturret"
+    },
+    "-2124352573": {
+        "link": "https://rustlabs.com/img/items180/fun.guitar.png",
+        "name": "Acoustic Guitar",
+        "shortname": "fun.guitar"
+    },
+    "-2123125470": {
+        "link": "https://rustlabs.com/img/items180/healingtea.advanced.png",
+        "name": "Advanced Healing Tea",
+        "shortname": "healingtea.advanced"
+    },
+    "-2107018088": {
+        "link": "https://rustlabs.com/img/items180/fun.bass.png",
+        "name": "Shovel Bass",
+        "shortname": "fun.bass"
+    },
+    "-2103694546": {
+        "link": "https://rustlabs.com/img/items180/sunglasses02camo.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses02camo"
+    },
+    "-2099697608": {
+        "link": "https://rustlabs.com/img/items180/stones.png",
+        "name": "Stones",
+        "shortname": "stones"
+    },
+    "-2097376851": {
+        "link": "https://rustlabs.com/img/items180/ammo.nailgun.nails.png",
+        "name": "Nailgun Nails",
+        "shortname": "ammo.nailgun.nails"
+    },
+    "-2094954543": {
+        "link": "https://rustlabs.com/img/items180/wood.armor.helmet.png",
+        "name": "Wood Armor Helmet",
+        "shortname": "wood.armor.helmet"
+    },
+    "-2086926071": {
+        "link": "https://rustlabs.com/img/items180/potato.png",
+        "name": "Potato",
+        "shortname": "potato"
+    },
+    "-2084071424": {
+        "link": "https://rustlabs.com/img/items180/seed.potato.png",
+        "name": "Potato Seed",
+        "shortname": "seed.potato"
+    },
+    "-2072273936": {
+        "link": "https://rustlabs.com/img/items180/bandage.png",
+        "name": "Bandage",
+        "shortname": "bandage"
+    },
+    "-2069578888": {
+        "link": "https://rustlabs.com/img/items180/lmg.m249.png",
+        "name": "M249",
+        "shortname": "lmg.m249"
+    },
+    "-2067472972": {
+        "link": "https://rustlabs.com/img/items180/door.hinged.metal.png",
+        "name": "Sheet Metal Door",
+        "shortname": "door.hinged.metal"
+    },
+    "-2058362263": {
+        "link": "https://rustlabs.com/img/items180/smallcandles.png",
+        "name": "Small Candle Set",
+        "shortname": "smallcandles"
+    },
+    "-2049214035": {
+        "link": "https://rustlabs.com/img/items180/electric.pressurepad.png",
+        "name": "Pressure Pad",
+        "shortname": "electric.pressurepad"
+    },
+    "-2047081330": {
+        "link": "https://rustlabs.com/img/items180/movembermoustache.png",
+        "name": "Movember Moustache",
+        "shortname": "movembermoustache"
+    },
+    "-2040817543": {
+        "link": "https://rustlabs.com/img/items180/fun.flute.png",
+        "name": "Pan Flute",
+        "shortname": "fun.flute"
+    },
+    "-2025184684": {
+        "link": "https://rustlabs.com/img/items180/shirt.collared.png",
+        "name": "Shirt",
+        "shortname": "shirt.collared"
+    },
+    "-2022172587": {
+        "link": "https://rustlabs.com/img/items180/diving.tank.png",
+        "name": "Diving Tank",
+        "shortname": "diving.tank"
+    },
+    "-2012470695": {
+        "link": "https://rustlabs.com/img/items180/mask.balaclava.png",
+        "name": "Improvised Balaclava",
+        "shortname": "mask.balaclava"
+    },
+    "-2002277461": {
+        "link": "https://rustlabs.com/img/items180/roadsign.jacket.png",
+        "name": "Road Sign Jacket",
+        "shortname": "roadsign.jacket"
+    },
+    "-2001260025": {
+        "link": "https://rustlabs.com/img/items180/tool.instant_camera.png",
+        "name": "Instant Camera",
+        "shortname": "tool.instant_camera"
+    },
+    "-1999722522": {
+        "link": "https://rustlabs.com/img/items180/furnace.png",
+        "name": "Furnace",
+        "shortname": "furnace"
+    },
+    "-1997698639": {
+        "link": "https://rustlabs.com/img/items180/sunglasses03chrome.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses03chrome"
+    },
+    "-1997543660": {
+        "link": "https://rustlabs.com/img/items180/horse.saddle.png",
+        "name": "Horse Saddle",
+        "shortname": "horse.saddle"
+    },
+    "1559915778": {
+        "link": "https://rustlabs.com/img/items180/horse.saddle.png",
+        "name": "Horse Saddle Single",
+        "shortname": "horse.saddle.single"
+    },
+    "-1323101799": {
+        "link": "https://rustlabs.com/img/items180/horse.saddle.png",
+        "name": "Horse Saddle Double",
+        "shortname": "horse.saddle.double"
+    },
+    "-1994909036": {
+        "link": "https://rustlabs.com/img/items180/sheetmetal.png",
+        "name": "Sheet Metal",
+        "shortname": "sheetmetal"
+    },
+    "-1992717673": {
+        "link": "https://rustlabs.com/img/items180/furnace.large.png",
+        "name": "Large Furnace",
+        "shortname": "furnace.large"
+    },
+    "-1985799200": {
+        "link": "https://rustlabs.com/img/items180/rug.png",
+        "name": "Rug",
+        "shortname": "rug"
+    },
+    "-1982036270": {
+        "link": "https://rustlabs.com/img/items180/hq.metal.ore.png",
+        "name": "High Quality Metal Ore",
+        "shortname": "hq.metal.ore"
+    },
+    "-1978999529": {
+        "link": "https://rustlabs.com/img/items180/salvaged.cleaver.png",
+        "name": "Salvaged Cleaver",
+        "shortname": "salvaged.cleaver"
+    },
+    "-1973785141": {
+        "link": "https://rustlabs.com/img/items180/fogmachine.png",
+        "name": "Fogger-3000",
+        "shortname": "fogmachine"
+    },
+    "-1966748496": {
+        "link": "https://rustlabs.com/img/items180/mace.png",
+        "name": "Mace",
+        "shortname": "mace"
+    },
+    "-1962971928": {
+        "link": "https://rustlabs.com/img/items180/mushroom.png",
+        "name": "Mushroom",
+        "shortname": "mushroom"
+    },
+    "-1961560162": {
+        "link": "https://rustlabs.com/img/items180/lunar.firecrackers.png",
+        "name": "Firecracker String",
+        "shortname": "lunar.firecrackers"
+    },
+    "-1958316066": {
+        "link": "https://rustlabs.com/img/items180/hazmatsuit_scientist_peacekeeper.png",
+        "name": "Scientist Suit",
+        "shortname": "hazmatsuit_scientist_peacekeeper"
+    },
+    "-1950721390": {
+        "link": "https://rustlabs.com/img/items180/barricade.concrete.png",
+        "name": "Concrete Barricade",
+        "shortname": "barricade.concrete"
+    },
+    "-1941646328": {
+        "link": "https://rustlabs.com/img/items180/can.tuna.png",
+        "name": "Can of Tuna",
+        "shortname": "can.tuna"
+    },
+    "-1938052175": {
+        "link": "https://rustlabs.com/img/items180/charcoal.png",
+        "name": "Charcoal",
+        "shortname": "charcoal"
+    },
+    "-1916473915": {
+        "link": "https://rustlabs.com/img/items180/chineselantern.png",
+        "name": "Chinese Lantern",
+        "shortname": "chineselantern"
+    },
+    "-1904821376": {
+        "link": "https://rustlabs.com/img/items180/fish.orangeroughy.png",
+        "name": "Orange Roughy",
+        "shortname": "fish.orangeroughy"
+    },
+    "-1903165497": {
+        "link": "https://rustlabs.com/img/items180/deer.skull.mask.png",
+        "name": "Bone Helmet",
+        "shortname": "deer.skull.mask"
+    },
+    "-1899491405": {
+        "link": "https://rustlabs.com/img/items180/glue.png",
+        "name": "Glue",
+        "shortname": "glue"
+    },
+    "-1884328185": {
+        "link": "https://rustlabs.com/img/items180/scraptransportheli.repair.png",
+        "name": "ScrapTransportHeliRepair",
+        "shortname": "scraptransportheli.repair"
+    },
+    "-1880870149": {
+        "link": "https://rustlabs.com/img/items180/keycard_red.png",
+        "name": "Red Keycard",
+        "shortname": "keycard_red"
+    },
+    "-1880231361": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.flatbed.png",
+        "name": "Flatbed Vehicle Module",
+        "shortname": "vehicle.1mod.flatbed"
+    },
+    "-1878764039": {
+        "link": "https://rustlabs.com/img/items180/fish.troutsmall.png",
+        "name": "Small Trout",
+        "shortname": "fish.troutsmall"
+    },
+    "-1878475007": {
+        "link": "https://rustlabs.com/img/items180/explosive.satchel.png",
+        "name": "Satchel Charge",
+        "shortname": "explosive.satchel"
+    },
+    "-1863559151": {
+        "link": "https://rustlabs.com/img/items180/water.barrel.png",
+        "name": "Water Barrel",
+        "shortname": "water.barrel"
+    },
+    "-1861522751": {
+        "link": "https://rustlabs.com/img/items180/research.table.png",
+        "name": "Research Table",
+        "shortname": "research.table"
+    },
+    "-1850571427": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.silencer.png",
+        "name": "Silencer",
+        "shortname": "weapon.mod.silencer"
+    },
+    "-1848736516": {
+        "link": "https://rustlabs.com/img/items180/chicken.cooked.png",
+        "name": "Cooked Chicken",
+        "shortname": "chicken.cooked"
+    },
+    "-1841918730": {
+        "link": "https://rustlabs.com/img/items180/ammo.rocket.hv.png",
+        "name": "High Velocity Rocket",
+        "shortname": "ammo.rocket.hv"
+    },
+    "-1832422579": {
+        "link": "https://rustlabs.com/img/items180/sign.post.town.png",
+        "name": "One Sided Town Sign Post",
+        "shortname": "sign.post.town"
+    },
+    "-1824943010": {
+        "link": "https://rustlabs.com/img/items180/jackolantern.happy.png",
+        "name": "Jack O Lantern Happy",
+        "shortname": "jackolantern.happy"
+    },
+    "-1819763926": {
+        "link": "https://rustlabs.com/img/items180/generator.wind.scrap.png",
+        "name": "Wind Turbine",
+        "shortname": "generator.wind.scrap"
+    },
+    "-1819233322": {
+        "link": "https://rustlabs.com/img/items180/sign.wooden.medium.png",
+        "name": "Medium Wooden Sign",
+        "shortname": "sign.wooden.medium"
+    },
+    "-1815301988": {
+        "link": "https://rustlabs.com/img/items180/pistol.water.png",
+        "name": "Water Pistol",
+        "shortname": "pistol.water"
+    },
+    "-1812555177": {
+        "link": "https://rustlabs.com/img/items180/rifle.lr300.png",
+        "name": "LR-300 Assault Rifle",
+        "shortname": "rifle.lr300"
+    },
+    "-1802083073": {
+        "link": "https://rustlabs.com/img/items180/valve3.png",
+        "name": "High Quality Valves",
+        "shortname": "valve3"
+    },
+    "-1800345240": {
+        "link": "https://rustlabs.com/img/items180/speargun.spear.png",
+        "name": "Speargun Spear",
+        "shortname": "speargun.spear"
+    },
+    "-1785231475": {
+        "link": "https://rustlabs.com/img/items180/halloween.surgeonsuit.png",
+        "name": "Surgeon Scrubs",
+        "shortname": "halloween.surgeonsuit"
+    },
+    "-1780802565": {
+        "link": "https://rustlabs.com/img/items180/icepick.salvaged.png",
+        "name": "Salvaged Icepick",
+        "shortname": "icepick.salvaged"
+    },
+    "-1779183908": {
+        "link": "https://rustlabs.com/img/items180/paper.png",
+        "name": "Paper",
+        "shortname": "paper"
+    },
+    "-1779180711": {
+        "link": "https://rustlabs.com/img/items180/water.png",
+        "name": "Water",
+        "shortname": "water"
+    },
+    "-1778897469": {
+        "link": "https://rustlabs.com/img/items180/electric.button.png",
+        "name": "Button",
+        "shortname": "electric.button"
+    },
+    "-1778159885": {
+        "link": "https://rustlabs.com/img/items180/heavy.plate.pants.png",
+        "name": "Heavy Plate Pants",
+        "shortname": "heavy.plate.pants"
+    },
+    "-1776128552": {
+        "link": "https://rustlabs.com/img/items180/seed.green.berry.png",
+        "name": "Green Berry Seed",
+        "shortname": "seed.green.berry"
+    },
+    "-1773144852": {
+        "link": "https://rustlabs.com/img/items180/attire.hide.skirt.png",
+        "name": "Hide Skirt",
+        "shortname": "attire.hide.skirt"
+    },
+    "-1772746857": {
+        "link": "https://rustlabs.com/img/items180/scientistsuit_heavy.png",
+        "name": "Heavy Scientist Suit",
+        "shortname": "scientistsuit_heavy"
+    },
+    "-1768880890": {
+        "link": "https://rustlabs.com/img/items180/fish.smallshark.png",
+        "name": "Small Shark",
+        "shortname": "fish.smallshark"
+    },
+    "-1759188988": {
+        "link": "https://rustlabs.com/img/items180/habrepair.png",
+        "name": "Hab Repair",
+        "shortname": "habrepair"
+    },
+    "-1758372725": {
+        "link": "https://rustlabs.com/img/items180/smg.thompson.png",
+        "name": "Thompson",
+        "shortname": "smg.thompson"
+    },
+    "-1754948969": {
+        "link": "https://rustlabs.com/img/items180/sleepingbag.png",
+        "name": "Sleeping Bag",
+        "shortname": "sleepingbag"
+    },
+    "-1736356576": {
+        "link": "https://rustlabs.com/img/items180/target.reactive.png",
+        "name": "Reactive Target",
+        "shortname": "target.reactive"
+    },
+    "-1729415579": {
+        "link": "https://rustlabs.com/img/items180/radiationresisttea.advanced.png",
+        "name": "Adv. Anti-Rad Tea",
+        "shortname": "radiationresisttea.advanced"
+    },
+    "-1709878924": {
+        "link": "https://rustlabs.com/img/items180/humanmeat.raw.png",
+        "name": "Raw Human Meat",
+        "shortname": "humanmeat.raw"
+    },
+    "-1698937385": {
+        "link": "https://rustlabs.com/img/items180/fish.herring.png",
+        "name": "Herring",
+        "shortname": "fish.herring"
+    },
+    "-1695367501": {
+        "link": "https://rustlabs.com/img/items180/pants.shorts.png",
+        "name": "Shorts",
+        "shortname": "pants.shorts"
+    },
+    "-1693832478": {
+        "link": "https://rustlabs.com/img/items180/vehicle.2mod.flatbed.png",
+        "name": "Large Flatbed Vehicle Module",
+        "shortname": "vehicle.2mod.flatbed"
+    },
+    "-1691396643": {
+        "link": "https://rustlabs.com/img/items180/ammo.pistol.hv.png",
+        "name": "HV Pistol Ammo",
+        "shortname": "ammo.pistol.hv"
+    },
+    "-1685290200": {
+        "link": "https://rustlabs.com/img/items180/ammo.shotgun.png",
+        "name": "12 Gauge Buckshot",
+        "shortname": "ammo.shotgun"
+    },
+    "-1679267738": {
+        "link": "https://rustlabs.com/img/items180/wall.graveyard.fence.png",
+        "name": "Graveyard Fence",
+        "shortname": "wall.graveyard.fence"
+    },
+    "-1677315902": {
+        "link": "https://rustlabs.com/img/items180/healingtea.pure.png",
+        "name": "Pure Healing Tea",
+        "shortname": "healingtea.pure"
+    },
+    "-1673693549": {
+        "link": "https://rustlabs.com/img/items180/propanetank.png",
+        "name": "Empty Propane Tank",
+        "shortname": "propanetank"
+    },
+    "-1671551935": {
+        "link": "https://rustlabs.com/img/items180/submarine.torpedo.straight.png",
+        "name": "Direct Torpedo",
+        "shortname": "submarine.torpedo.straight"
+    },
+    "-1667224349": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.baubels.png",
+        "name": "Decorative Baubels",
+        "shortname": "xmas.decoration.baubels"
+    },
+    "-1663759755": {
+        "link": "https://rustlabs.com/img/items180/trap.landmine.png",
+        "name": "Land Mine",
+        "shortname": "trap.landmine"
+    },
+    "-1654233406": {
+        "link": "https://rustlabs.com/img/items180/fish.sardine.png",
+        "name": "Sardine",
+        "shortname": "fish.sardine"
+    },
+    "-1651220691": {
+        "link": "https://rustlabs.com/img/items180/pookie.bear.png",
+        "name": "Pookie Bear",
+        "shortname": "pookie.bear"
+    },
+    "-1647846966": {
+        "link": "https://rustlabs.com/img/items180/sign.hanging.ornate.png",
+        "name": "Two Sided Ornate Hanging Sign",
+        "shortname": "sign.hanging.ornate"
+    },
+    "-1622660759": {
+        "link": "https://rustlabs.com/img/items180/xmas.present.large.png",
+        "name": "Large Present",
+        "shortname": "xmas.present.large"
+    },
+    "-1622110948": {
+        "link": "https://rustlabs.com/img/items180/attire.banditguard.png",
+        "name": "Bandit Guard Gear",
+        "shortname": "attire.banditguard"
+    },
+    "-1621539785": {
+        "link": "https://rustlabs.com/img/items180/beachparasol.png",
+        "name": "Beach Parasol",
+        "shortname": "beachparasol"
+    },
+    "-1615281216": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.passengers.armored.png",
+        "name": "Armored Passenger Vehicle Module",
+        "shortname": "vehicle.1mod.passengers.armored"
+    },
+    "-1614955425": {
+        "link": "https://rustlabs.com/img/items180/wall.window.glass.reinforced.png",
+        "name": "Strengthened Glass Window",
+        "shortname": "wall.window.glass.reinforced"
+    },
+    "-1607980696": {
+        "link": "https://rustlabs.com/img/items180/workbench3.png",
+        "name": "Work Bench Level 3",
+        "shortname": "workbench3"
+    },
+    "-1588628467": {
+        "link": "https://rustlabs.com/img/items180/computerstation.png",
+        "name": "Computer Station",
+        "shortname": "computerstation"
+    },
+    "-1583967946": {
+        "link": "https://rustlabs.com/img/items180/stonehatchet.png",
+        "name": "Stone Hatchet",
+        "shortname": "stonehatchet"
+    },
+    "-1581843485": {
+        "link": "https://rustlabs.com/img/items180/sulfur.png",
+        "name": "Sulfur",
+        "shortname": "sulfur"
+    },
+    "-1579932985": {
+        "link": "https://rustlabs.com/img/items180/horsedung.png",
+        "name": "Horse Dung",
+        "shortname": "horsedung"
+    },
+    "-1569700847": {
+        "link": "https://rustlabs.com/img/items180/twitch.headset.png",
+        "name": "Headset",
+        "shortname": "twitch.headset"
+    },
+    "-1557377697": {
+        "link": "https://rustlabs.com/img/items180/can.tuna.empty.png",
+        "name": "Empty Tuna Can",
+        "shortname": "can.tuna.empty"
+    },
+    "-1553999294": {
+        "link": "https://rustlabs.com/img/items180/firework.boomer.red.png",
+        "name": "Red Boomer",
+        "shortname": "firework.boomer.red"
+    },
+    "-1549739227": {
+        "link": "https://rustlabs.com/img/items180/shoes.boots.png",
+        "name": "Boots",
+        "shortname": "shoes.boots"
+    },
+    "-1539025626": {
+        "link": "https://rustlabs.com/img/items180/hat.miner.png",
+        "name": "Miners Hat",
+        "shortname": "hat.miner"
+    },
+    "-1538109120": {
+        "link": "https://rustlabs.com/img/items180/firework.volcano.violet.png",
+        "name": "Violet Volcano Firework",
+        "shortname": "firework.volcano.violet"
+    },
+    "-1535621066": {
+        "link": "https://rustlabs.com/img/items180/fireplace.stone.png",
+        "name": "Stone Fireplace",
+        "shortname": "fireplace.stone"
+    },
+    "-1530414568": {
+        "link": "https://rustlabs.com/img/items180/fun.casetterecorder.png",
+        "name": "Cassette Recorder",
+        "shortname": "fun.casetterecorder"
+    },
+    "-1520560807": {
+        "link": "https://rustlabs.com/img/items180/bearmeat.png",
+        "name": "Raw Bear Meat",
+        "shortname": "bearmeat"
+    },
+    "-1519126340": {
+        "link": "https://rustlabs.com/img/items180/dropbox.png",
+        "name": "Drop Box",
+        "shortname": "dropbox"
+    },
+    "-1518883088": {
+        "link": "https://rustlabs.com/img/items180/nightvisiongoggles.png",
+        "name": "Night Vision Goggles",
+        "shortname": "nightvisiongoggles"
+    },
+    "-1517740219": {
+        "link": "https://rustlabs.com/img/items180/speargun.png",
+        "name": "Speargun",
+        "shortname": "speargun"
+    },
+    "-1511285251": {
+        "link": "https://rustlabs.com/img/items180/seed.pumpkin.png",
+        "name": "Pumpkin Seed",
+        "shortname": "seed.pumpkin"
+    },
+    "-1509851560": {
+        "link": "https://rustlabs.com/img/items180/deermeat.cooked.png",
+        "name": "Cooked Deer Meat",
+        "shortname": "deermeat.cooked"
+    },
+    "-1507239837": {
+        "link": "https://rustlabs.com/img/items180/electric.hbhfsensor.png",
+        "name": "HBHF Sensor",
+        "shortname": "electric.hbhfsensor"
+    },
+    "-1506417026": {
+        "link": "https://rustlabs.com/img/items180/attire.ninja.suit.png",
+        "name": "Ninja Suit",
+        "shortname": "attire.ninja.suit"
+    },
+    "-1506397857": {
+        "link": "https://rustlabs.com/img/items180/hammer.salvaged.png",
+        "name": "Salvaged Hammer",
+        "shortname": "hammer.salvaged"
+    },
+    "-1501451746": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.cockpit.png",
+        "name": "Cockpit Vehicle Module",
+        "shortname": "vehicle.1mod.cockpit"
+    },
+    "-1488398114": {
+        "link": "https://rustlabs.com/img/items180/composter.png",
+        "name": "Composter",
+        "shortname": "composter"
+    },
+    "-1486461488": {
+        "link": "https://rustlabs.com/img/items180/firework.romancandle.red.png",
+        "name": "Red Roman Candle",
+        "shortname": "firework.romancandle.red"
+    },
+    "-1478445584": {
+        "link": "https://rustlabs.com/img/items180/tunalight.png",
+        "name": "Tuna Can Lamp",
+        "shortname": "tunalight"
+    },
+    "-1478212975": {
+        "link": "https://rustlabs.com/img/items180/hat.wolf.png",
+        "name": "Wolf Headdress",
+        "shortname": "hat.wolf"
+    },
+    "-1478094705": {
+        "link": "https://rustlabs.com/img/items180/boogieboard.png",
+        "name": "Boogie Board",
+        "shortname": "boogieboard"
+    },
+    "-1469578201": {
+        "link": "https://rustlabs.com/img/items180/longsword.png",
+        "name": "Longsword",
+        "shortname": "longsword"
+    },
+    "-1448252298": {
+        "link": "https://rustlabs.com/img/items180/electrical.branch.png",
+        "name": "Electrical Branch",
+        "shortname": "electrical.branch"
+    },
+    "-1442559428": {
+        "link": "https://rustlabs.com/img/items180/hobobarrel.png",
+        "name": "Hobo Barrel",
+        "shortname": "hobobarrel"
+    },
+    "-1440987069": {
+        "link": "https://rustlabs.com/img/items180/chicken.raw.png",
+        "name": "Raw Chicken Breast",
+        "shortname": "chicken.raw"
+    },
+    "-1432674913": {
+        "link": "https://rustlabs.com/img/items180/antiradpills.png",
+        "name": "Anti-Radiation Pills",
+        "shortname": "antiradpills"
+    },
+    "-1429456799": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.cell.png",
+        "name": "Prison Cell Wall",
+        "shortname": "wall.frame.cell"
+    },
+    "-1423304443": {
+        "link": "https://rustlabs.com/img/items180/sign.neon.125x215.png",
+        "name": "Medium Neon Sign",
+        "shortname": "sign.neon.125x215"
+    },
+    "-1408336705": {
+        "link": "https://rustlabs.com/img/items180/sunglasses03gold.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses03gold"
+    },
+    "-1405508498": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.muzzleboost.png",
+        "name": "Muzzle Boost",
+        "shortname": "weapon.mod.muzzleboost"
+    },
+    "-1379835144": {
+        "link": "https://rustlabs.com/img/items180/xmas.window.garland.png",
+        "name": "Festive Window Garland",
+        "shortname": "xmas.window.garland"
+    },
+    "-1379036069": {
+        "link": "https://rustlabs.com/img/items180/fun.tambourine.png",
+        "name": "Canbourine",
+        "shortname": "fun.tambourine"
+    },
+    "-1370759135": {
+        "link": "https://rustlabs.com/img/items180/sign.pictureframe.portrait.png",
+        "name": "Portrait Picture Frame",
+        "shortname": "sign.pictureframe.portrait"
+    },
+    "-1368584029": {
+        "link": "https://rustlabs.com/img/items180/sickle.png",
+        "name": "Sickle",
+        "shortname": "sickle"
+    },
+    "-1367281941": {
+        "link": "https://rustlabs.com/img/items180/shotgun.waterpipe.png",
+        "name": "Waterpipe Shotgun",
+        "shortname": "shotgun.waterpipe"
+    },
+    "-1336109173": {
+        "link": "https://rustlabs.com/img/items180/door.double.hinged.wood.png",
+        "name": "Wood Double Door",
+        "shortname": "door.double.hinged.wood"
+    },
+    "-1331212963": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.star.png",
+        "name": "Star Tree Topper",
+        "shortname": "xmas.decoration.star"
+    },
+    "-1330640246": {
+        "link": "https://rustlabs.com/img/items180/drumkit.png",
+        "name": "Junkyard Drum Kit",
+        "shortname": "drumkit"
+    },
+    "-1321651331": {
+        "link": "https://rustlabs.com/img/items180/ammo.rifle.explosive.png",
+        "name": "Explosive 5.56 Rifle Ammo",
+        "shortname": "ammo.rifle.explosive"
+    },
+    "-1316706473": {
+        "link": "https://rustlabs.com/img/items180/tool.camera.png",
+        "name": "Camera",
+        "shortname": "tool.camera"
+    },
+    "-1306288356": {
+        "link": "https://rustlabs.com/img/items180/firework.romancandle.green.png",
+        "name": "Green Roman Candle",
+        "shortname": "firework.romancandle.green"
+    },
+    "-1305326964": {
+        "link": "https://rustlabs.com/img/items180/clone.green.berry.png",
+        "name": "Green Berry Clone",
+        "shortname": "clone.green.berry"
+    },
+    "-1302129395": {
+        "link": "https://rustlabs.com/img/items180/pickaxe.png",
+        "name": "Pickaxe",
+        "shortname": "pickaxe"
+    },
+    "-1293296287": {
+        "link": "https://rustlabs.com/img/items180/small.oil.refinery.png",
+        "name": "Small Oil Refinery",
+        "shortname": "small.oil.refinery"
+    },
+    "-1286302544": {
+        "link": "https://rustlabs.com/img/items180/electric.orswitch.png",
+        "name": "OR Switch",
+        "shortname": "electric.orswitch"
+    },
+    "-1284169891": {
+        "link": "https://rustlabs.com/img/items180/waterpump.png",
+        "name": "Water Pump",
+        "shortname": "waterpump"
+    },
+    "-1273339005": {
+        "link": "https://rustlabs.com/img/items180/bed.png",
+        "name": "Bed",
+        "shortname": "bed"
+    },
+    "-1266045928": {
+        "link": "https://rustlabs.com/img/items180/attire.bunny.onesie.png",
+        "name": "Bunny Onesie",
+        "shortname": "attire.bunny.onesie"
+    },
+    "-1262185308": {
+        "link": "https://rustlabs.com/img/items180/tool.binoculars.png",
+        "name": "Binoculars",
+        "shortname": "tool.binoculars"
+    },
+    "-1252059217": {
+        "link": "https://rustlabs.com/img/items180/hatchet.png",
+        "name": "Hatchet",
+        "shortname": "hatchet"
+    },
+    "-1234735557": {
+        "link": "https://rustlabs.com/img/items180/arrow.wooden.png",
+        "name": "Wooden Arrow",
+        "shortname": "arrow.wooden"
+    },
+    "-1215753368": {
+        "link": "https://rustlabs.com/img/items180/flamethrower.png",
+        "name": "Flame Thrower",
+        "shortname": "flamethrower"
+    },
+    "-1215166612": {
+        "link": "https://rustlabs.com/img/items180/barrelcostume.png",
+        "name": "A Barrel Costume",
+        "shortname": "barrelcostume"
+    },
+    "-1211268013": {
+        "link": "https://rustlabs.com/img/items180/horse.shoes.basic.png",
+        "name": "Basic Horse Shoes",
+        "shortname": "horse.shoes.basic"
+    },
+    "-1211166256": {
+        "link": "https://rustlabs.com/img/items180/ammo.rifle.png",
+        "name": "5.56 Rifle Ammo",
+        "shortname": "ammo.rifle"
+    },
+    "-1199897172": {
+        "link": "https://rustlabs.com/img/items180/shutter.metal.embrasure.b.png",
+        "name": "Metal Vertical embrasure",
+        "shortname": "shutter.metal.embrasure.b"
+    },
+    "-1199897169": {
+        "link": "https://rustlabs.com/img/items180/shutter.metal.embrasure.a.png",
+        "name": "Metal horizontal embrasure",
+        "shortname": "shutter.metal.embrasure.a"
+    },
+    "-1184406448": {
+        "link": "https://rustlabs.com/img/items180/maxhealthtea.png",
+        "name": "Basic Max Health Tea",
+        "shortname": "maxhealthtea"
+    },
+    "-1183726687": {
+        "link": "https://rustlabs.com/img/items180/wall.window.bars.wood.png",
+        "name": "Wooden Window Bars",
+        "shortname": "wall.window.bars.wood"
+    },
+    "-1167031859": {
+        "link": "https://rustlabs.com/img/items180/wolfmeat.spoiled.png",
+        "name": "Spoiled Wolf Meat",
+        "shortname": "wolfmeat.spoiled"
+    },
+    "-1166712463": {
+        "link": "https://rustlabs.com/img/items180/fluid.splitter.png",
+        "name": "Fluid Splitter",
+        "shortname": "fluid.splitter"
+    },
+    "-1163532624": {
+        "link": "https://rustlabs.com/img/items180/jacket.png",
+        "name": "Jacket",
+        "shortname": "jacket"
+    },
+    "-1162759543": {
+        "link": "https://rustlabs.com/img/items180/horsemeat.cooked.png",
+        "name": "Cooked Horse Meat",
+        "shortname": "horsemeat.cooked"
+    },
+    "-1157596551": {
+        "link": "https://rustlabs.com/img/items180/sulfur.ore.png",
+        "name": "Sulfur Ore",
+        "shortname": "sulfur.ore"
+    },
+    "-1138208076": {
+        "link": "https://rustlabs.com/img/items180/sign.wooden.small.png",
+        "name": "Small Wooden Sign",
+        "shortname": "sign.wooden.small"
+    },
+    "-1137865085": {
+        "link": "https://rustlabs.com/img/items180/machete.png",
+        "name": "Machete",
+        "shortname": "machete"
+    },
+    "-1130709577": {
+        "link": "https://rustlabs.com/img/items180/mining.pumpjack.png",
+        "name": "Pump Jack",
+        "shortname": "mining.pumpjack"
+    },
+    "-1130350864": {
+        "link": "https://rustlabs.com/img/items180/horsemeat.raw.png",
+        "name": "Raw Horse Meat",
+        "shortname": "horsemeat.raw"
+    },
+    "-1123473824": {
+        "link": "https://rustlabs.com/img/items180/multiplegrenadelauncher.png",
+        "name": "Multiple Grenade Launcher",
+        "shortname": "multiplegrenadelauncher"
+    },
+    "-1117626326": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.fence.png",
+        "name": "Chainlink Fence",
+        "shortname": "wall.frame.fence"
+    },
+    "-1113501606": {
+        "link": "https://rustlabs.com/img/items180/boombox.png",
+        "name": "Boom Box",
+        "shortname": "boombox"
+    },
+    "-1112793865": {
+        "link": "https://rustlabs.com/img/items180/door.key.png",
+        "name": "Door Key",
+        "shortname": "door.key"
+    },
+    "-1108136649": {
+        "link": "https://rustlabs.com/img/items180/tactical.gloves.png",
+        "name": "Tactical Gloves",
+        "shortname": "tactical.gloves"
+    },
+    "-1104881824": {
+        "link": "https://rustlabs.com/img/items180/rug.bear.png",
+        "name": "Rug Bear Skin",
+        "shortname": "rug.bear"
+    },
+    "-1102429027": {
+        "link": "https://rustlabs.com/img/items180/heavy.plate.jacket.png",
+        "name": "Heavy Plate Jacket",
+        "shortname": "heavy.plate.jacket"
+    },
+    "-1101924344": {
+        "link": "https://rustlabs.com/img/items180/diving.wetsuit.png",
+        "name": "Wetsuit",
+        "shortname": "diving.wetsuit"
+    },
+    "-1100422738": {
+        "link": "https://rustlabs.com/img/items180/spinner.wheel.png",
+        "name": "Spinning wheel",
+        "shortname": "spinner.wheel"
+    },
+    "-1100168350": {
+        "link": "https://rustlabs.com/img/items180/water.catcher.large.png",
+        "name": "Large Water Catcher",
+        "shortname": "water.catcher.large"
+    },
+    "-1078639462": {
+        "link": "https://rustlabs.com/img/items180/skullspikes.pumpkin.png",
+        "name": "Skull Spikes",
+        "shortname": "skullspikes.pumpkin"
+    },
+    "-1073015016": {
+        "link": "https://rustlabs.com/img/items180/skullspikes.png",
+        "name": "Skull Spikes",
+        "shortname": "skullspikes"
+    },
+    "-1049881973": {
+        "link": "https://rustlabs.com/img/items180/fun.cowbell.png",
+        "name": "Cowbell",
+        "shortname": "fun.cowbell"
+    },
+    "-1044468317": {
+        "link": "https://rustlabs.com/img/items180/electric.rf.broadcaster.png",
+        "name": "RF Broadcaster",
+        "shortname": "electric.rf.broadcaster"
+    },
+    "-1043618880": {
+        "link": "https://rustlabs.com/img/items180/ghostsheet.png",
+        "name": "Ghost Costume",
+        "shortname": "ghostsheet"
+    },
+    "-1039528932": {
+        "link": "https://rustlabs.com/img/items180/smallwaterbottle.png",
+        "name": "Small Water Bottle",
+        "shortname": "smallwaterbottle"
+    },
+    "-1036635990": {
+        "link": "https://rustlabs.com/img/items180/ammo.shotgun.fire.png",
+        "name": "12 Gauge Incendiary Shell",
+        "shortname": "ammo.shotgun.fire"
+    },
+    "-1023374709": {
+        "link": "https://rustlabs.com/img/items180/shutter.wood.a.png",
+        "name": "Wood Shutters",
+        "shortname": "shutter.wood.a"
+    },
+    "-1023065463": {
+        "link": "https://rustlabs.com/img/items180/arrow.hv.png",
+        "name": "High Velocity Arrow",
+        "shortname": "arrow.hv"
+    },
+    "-1022661119": {
+        "link": "https://rustlabs.com/img/items180/hat.cap.png",
+        "name": "Baseball Cap",
+        "shortname": "hat.cap"
+    },
+    "-1021495308": {
+        "link": "https://rustlabs.com/img/items180/metalspring.png",
+        "name": "Metal Spring",
+        "shortname": "metalspring"
+    },
+    "-1018587433": {
+        "link": "https://rustlabs.com/img/items180/fat.animal.png",
+        "name": "Animal Fat",
+        "shortname": "fat.animal"
+    },
+    "-1009359066": {
+        "link": "https://rustlabs.com/img/items180/samsite.png",
+        "name": "SAM Site",
+        "shortname": "samsite"
+    },
+    "-1004426654": {
+        "link": "https://rustlabs.com/img/items180/attire.bunnyears.png",
+        "name": "Bunny Ears",
+        "shortname": "attire.bunnyears"
+    },
+    "-1002156085": {
+        "link": "https://rustlabs.com/img/items180/easter.goldegg.png",
+        "name": "Gold Egg",
+        "shortname": "easter.goldegg"
+    },
+    "-1000573653": {
+        "link": "https://rustlabs.com/img/items180/boots.frog.png",
+        "name": "Frog Boots",
+        "shortname": "boots.frog"
+    },
+    "-996920608": {
+        "link": "https://rustlabs.com/img/items180/blueprintbase.png",
+        "name": "Blueprint",
+        "shortname": "blueprintbase"
+    },
+    "-996185386": {
+        "link": "https://rustlabs.com/img/items180/sign.pictureframe.xl.png",
+        "name": "XL Picture Frame",
+        "shortname": "sign.pictureframe.xl"
+    },
+    "-992286106": {
+        "link": "https://rustlabs.com/img/items180/seed.white.berry.png",
+        "name": "White Berry Seed",
+        "shortname": "seed.white.berry"
+    },
+    "-989755543": {
+        "link": "https://rustlabs.com/img/items180/bearmeat.burned.png",
+        "name": "Burnt Bear Meat",
+        "shortname": "bearmeat.burned"
+    },
+    "-985781766": {
+        "link": "https://rustlabs.com/img/items180/wall.external.high.ice.png",
+        "name": "High Ice Wall",
+        "shortname": "wall.external.high.ice"
+    },
+    "-979951147": {
+        "link": "https://rustlabs.com/img/items180/fun.jerrycanguitar.png",
+        "name": "Jerry Can Guitar",
+        "shortname": "fun.jerrycanguitar"
+    },
+    "-979302481": {
+        "link": "https://rustlabs.com/img/items180/easterdoorwreath.png",
+        "name": "Easter Door Wreath",
+        "shortname": "easterdoorwreath"
+    },
+    "-967648160": {
+        "link": "https://rustlabs.com/img/items180/wall.external.high.stone.png",
+        "name": "High External Stone Wall",
+        "shortname": "wall.external.high.stone"
+    },
+    "-961457160": {
+        "link": "https://rustlabs.com/img/items180/newyeargong.png",
+        "name": "New Year Gong",
+        "shortname": "newyeargong"
+    },
+    "-956706906": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.cell.gate.png",
+        "name": "Prison Cell Gate",
+        "shortname": "wall.frame.cell.gate"
+    },
+    "-946369541": {
+        "link": "https://rustlabs.com/img/items180/lowgradefuel.png",
+        "name": "Low Grade Fuel",
+        "shortname": "lowgradefuel"
+    },
+    "-939424778": {
+        "link": "https://rustlabs.com/img/items180/electric.flasherlight.png",
+        "name": "Flasher Light",
+        "shortname": "electric.flasherlight"
+    },
+    "-932201673": {
+        "link": "https://rustlabs.com/img/items180/scrap.png",
+        "name": "Scrap",
+        "shortname": "scrap"
+    },
+    "-930193596": {
+        "link": "https://rustlabs.com/img/items180/fertilizer.png",
+        "name": "Fertilizer",
+        "shortname": "fertilizer"
+    },
+    "-929092070": {
+        "link": "https://rustlabs.com/img/items180/healingtea.png",
+        "name": "Basic Healing Tea",
+        "shortname": "healingtea"
+    },
+    "-924959988": {
+        "link": "https://rustlabs.com/img/items180/skull.trophy.jar2.png",
+        "name": "Skull Trophy",
+        "shortname": "skull.trophy.jar2"
+    },
+    "-912398867": {
+        "link": "https://rustlabs.com/img/items180/cassette.medium.png",
+        "name": "Cassette - Medium",
+        "shortname": "cassette.medium"
+    },
+    "-904863145": {
+        "link": "https://rustlabs.com/img/items180/rifle.semiauto.png",
+        "name": "Semi-Automatic Rifle",
+        "shortname": "rifle.semiauto"
+    },
+    "-888153050": {
+        "link": "https://rustlabs.com/img/items180/halloween.candy.png",
+        "name": "Halloween Candy",
+        "shortname": "halloween.candy"
+    },
+    "-886280491": {
+        "link": "https://rustlabs.com/img/items180/clone.hemp.png",
+        "name": "Hemp Clone",
+        "shortname": "clone.hemp"
+    },
+    "-858312878": {
+        "link": "https://rustlabs.com/img/items180/cloth.png",
+        "name": "Cloth",
+        "shortname": "cloth"
+    },
+    "-855748505": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.simplesight.png",
+        "name": "Simple Handmade Sight",
+        "shortname": "weapon.mod.simplesight"
+    },
+    "-854270928": {
+        "link": "https://rustlabs.com/img/items180/dragondoorknocker.png",
+        "name": "Dragon Door Knocker",
+        "shortname": "dragondoorknocker"
+    },
+    "-852563019": {
+        "link": "https://rustlabs.com/img/items180/pistol.m92.png",
+        "name": "M92 Pistol",
+        "shortname": "pistol.m92"
+    },
+    "-851988960": {
+        "link": "https://rustlabs.com/img/items180/fish.salmon.png",
+        "name": "Salmon",
+        "shortname": "fish.salmon"
+    },
+    "-850982208": {
+        "link": "https://rustlabs.com/img/items180/lock.key.png",
+        "name": "Key Lock",
+        "shortname": "lock.key"
+    },
+    "-845557339": {
+        "link": "https://rustlabs.com/img/items180/sign.pictureframe.landscape.png",
+        "name": "Landscape Picture Frame",
+        "shortname": "sign.pictureframe.landscape"
+    },
+    "-819720157": {
+        "link": "https://rustlabs.com/img/items180/wall.window.bars.metal.png",
+        "name": "Metal Window Bars",
+        "shortname": "wall.window.bars.metal"
+    },
+    "-810326667": {
+        "link": "https://rustlabs.com/img/items180/workcart.png",
+        "name": "Work Cart",
+        "shortname": "workcart"
+    },
+    "-804769727": {
+        "link": "https://rustlabs.com/img/items180/plantfiber.png",
+        "name": "Plant Fiber",
+        "shortname": "plantfiber"
+    },
+    "-803263829": {
+        "link": "https://rustlabs.com/img/items180/coffeecan.helmet.png",
+        "name": "Coffee Can Helmet",
+        "shortname": "coffeecan.helmet"
+    },
+    "-798293154": {
+        "link": "https://rustlabs.com/img/items180/electric.laserdetector.png",
+        "name": "Laser Detector",
+        "shortname": "electric.laserdetector"
+    },
+    "-796583652": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.shopfront.png",
+        "name": "Shop Front",
+        "shortname": "wall.frame.shopfront"
+    },
+    "-784870360": {
+        "link": "https://rustlabs.com/img/items180/electric.heater.png",
+        "name": "Electric Heater",
+        "shortname": "electric.heater"
+    },
+    "-781014061": {
+        "link": "https://rustlabs.com/img/items180/electric.sprinkler.png",
+        "name": "Sprinkler",
+        "shortname": "electric.sprinkler"
+    },
+    "-778875547": {
+        "link": "https://rustlabs.com/img/items180/clone.corn.png",
+        "name": "Corn Clone",
+        "shortname": "clone.corn"
+    },
+    "-778367295": {
+        "link": "https://rustlabs.com/img/items180/rifle.l96.png",
+        "name": "L96 Rifle",
+        "shortname": "rifle.l96"
+    },
+    "-769647921": {
+        "link": "https://rustlabs.com/img/items180/skull.trophy.png",
+        "name": "Skull Trophy",
+        "shortname": "skull.trophy"
+    },
+    "-765183617": {
+        "link": "https://rustlabs.com/img/items180/shotgun.double.png",
+        "name": "Double Barrel Shotgun",
+        "shortname": "shotgun.double"
+    },
+    "-761829530": {
+        "link": "https://rustlabs.com/img/items180/burlap.shoes.png",
+        "name": "Burlap Shoes",
+        "shortname": "burlap.shoes"
+    },
+    "-751151717": {
+        "link": "https://rustlabs.com/img/items180/chicken.spoiled.png",
+        "name": "Spoiled Chicken",
+        "shortname": "chicken.spoiled"
+    },
+    "-746647361": {
+        "link": "https://rustlabs.com/img/items180/electrical.memorycell.png",
+        "name": "Memory Cell",
+        "shortname": "electrical.memorycell"
+    },
+    "-746030907": {
+        "link": "https://rustlabs.com/img/items180/granolabar.png",
+        "name": "Granola Bar",
+        "shortname": "granolabar"
+    },
+    "-742865266": {
+        "link": "https://rustlabs.com/img/items180/ammo.rocket.basic.png",
+        "name": "Rocket",
+        "shortname": "ammo.rocket.basic"
+    },
+    "-733625651": {
+        "link": "https://rustlabs.com/img/items180/paddlingpool.png",
+        "name": "Paddling Pool",
+        "shortname": "paddlingpool"
+    },
+    "-727717969": {
+        "link": "https://rustlabs.com/img/items180/ammo.shotgun.slug.png",
+        "name": "12 Gauge Slug",
+        "shortname": "ammo.shotgun.slug"
+    },
+    "-722241321": {
+        "link": "https://rustlabs.com/img/items180/xmas.present.small.png",
+        "name": "Small Present",
+        "shortname": "xmas.present.small"
+    },
+    "-702051347": {
+        "link": "https://rustlabs.com/img/items180/mask.bandana.png",
+        "name": "Bandana Mask",
+        "shortname": "mask.bandana"
+    },
+    "-700591459": {
+        "link": "https://rustlabs.com/img/items180/can.beans.png",
+        "name": "Can of Beans",
+        "shortname": "can.beans"
+    },
+    "-699558439": {
+        "link": "https://rustlabs.com/img/items180/roadsign.gloves.png",
+        "name": "Roadsign Gloves",
+        "shortname": "roadsign.gloves"
+    },
+    "-697981032": {
+        "link": "https://rustlabs.com/img/items180/innertube.png",
+        "name": "Inner Tube",
+        "shortname": "innertube"
+    },
+    "-695978112": {
+        "link": "https://rustlabs.com/img/items180/smart.alarm.png",
+        "name": "Smart Alarm",
+        "shortname": "smart.alarm"
+    },
+    "-695124222": {
+        "link": "https://rustlabs.com/img/items180/giantcandycanedecor.png",
+        "name": "Giant Candy Decor",
+        "shortname": "giantcandycanedecor"
+    },
+    "-692338819": {
+        "link": "https://rustlabs.com/img/items180/electric.battery.rechargable.small.png",
+        "name": "Small Rechargeable Battery",
+        "shortname": "electric.battery.rechargable.small"
+    },
+    "-691113464": {
+        "link": "https://rustlabs.com/img/items180/gates.external.high.stone.png",
+        "name": "High External Stone Gate",
+        "shortname": "gates.external.high.stone"
+    },
+    "-690968985": {
+        "link": "https://rustlabs.com/img/items180/electric.blocker.png",
+        "name": "Blocker",
+        "shortname": "electric.blocker"
+    },
+    "-690276911": {
+        "link": "https://rustlabs.com/img/items180/gloweyes.png",
+        "name": "Glowing Eyes",
+        "shortname": "gloweyes"
+    },
+    "-682687162": {
+        "link": "https://rustlabs.com/img/items180/humanmeat.burned.png",
+        "name": "Burnt Human Meat",
+        "shortname": "humanmeat.burned"
+    },
+    "-656349006": {
+        "link": "https://rustlabs.com/img/items180/firework.boomer.green.png",
+        "name": "Green Boomer",
+        "shortname": "firework.boomer.green"
+    },
+    "-649128577": {
+        "link": "https://rustlabs.com/img/items180/woodtea.png",
+        "name": "Basic Wood Tea",
+        "shortname": "woodtea"
+    },
+    "-629028935": {
+        "link": "https://rustlabs.com/img/items180/fuse.png",
+        "name": "Electric Fuse",
+        "shortname": "fuse"
+    },
+    "-626174997": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.taxi.png",
+        "name": "Taxi Vehicle Module",
+        "shortname": "vehicle.1mod.taxi"
+    },
+    "-592016202": {
+        "link": "https://rustlabs.com/img/items180/explosives.png",
+        "name": "Explosives",
+        "shortname": "explosives"
+    },
+    "-587989372": {
+        "link": "https://rustlabs.com/img/items180/fish.catfish.png",
+        "name": "Catfish",
+        "shortname": "fish.catfish"
+    },
+    "-586784898": {
+        "link": "https://rustlabs.com/img/items180/mailbox.png",
+        "name": "Mail Box",
+        "shortname": "mailbox"
+    },
+    "-586342290": {
+        "link": "https://rustlabs.com/img/items180/blueberries.png",
+        "name": "Blueberries",
+        "shortname": "blueberries"
+    },
+    "-583379016": {
+        "link": "https://rustlabs.com/img/items180/megaphone.png",
+        "name": "Megaphone",
+        "shortname": "megaphone"
+    },
+    "-582782051": {
+        "link": "https://rustlabs.com/img/items180/trap.bear.png",
+        "name": "Snap Trap",
+        "shortname": "trap.bear"
+    },
+    "-575744869": {
+        "link": "https://rustlabs.com/img/items180/partyhat.png",
+        "name": "Party Hat",
+        "shortname": "partyhat"
+    },
+    "-575483084": {
+        "link": "https://rustlabs.com/img/items180/santahat.png",
+        "name": "Santa Hat",
+        "shortname": "santahat"
+    },
+    "-568419968": {
+        "link": "https://rustlabs.com/img/items180/grub.png",
+        "name": "Grub",
+        "shortname": "grub"
+    },
+    "-567909622": {
+        "link": "https://rustlabs.com/img/items180/pumpkin.png",
+        "name": "Pumpkin",
+        "shortname": "pumpkin"
+    },
+    "-566907190": {
+        "link": "https://rustlabs.com/img/items180/rf_pager.png",
+        "name": "RF Pager",
+        "shortname": "rf_pager"
+    },
+    "-563624462": {
+        "link": "https://rustlabs.com/img/items180/electric.splitter.png",
+        "name": "Splitter",
+        "shortname": "electric.splitter"
+    },
+    "-560304835": {
+        "link": "https://rustlabs.com/img/items180/hazmatsuit.spacesuit.png",
+        "name": "Space Suit",
+        "shortname": "hazmatsuit.spacesuit"
+    },
+    "-559599960": {
+        "link": "https://rustlabs.com/img/items180/barricade.sandbags.png",
+        "name": "Sandbag Barricade",
+        "shortname": "barricade.sandbags"
+    },
+    "-557539629": {
+        "link": "https://rustlabs.com/img/items180/woodtea.pure.png",
+        "name": "Pure Wood Tea",
+        "shortname": "woodtea.pure"
+    },
+    "-555122905": {
+        "link": "https://rustlabs.com/img/items180/sofa.png",
+        "name": "Sofa",
+        "shortname": "sofa"
+    },
+    "-544317637": {
+        "link": "https://rustlabs.com/img/items180/researchpaper.png",
+        "name": "Research Paper",
+        "shortname": "researchpaper"
+    },
+    "-542577259": {
+        "link": "https://rustlabs.com/img/items180/fish.minnows.png",
+        "name": "Minnows",
+        "shortname": "fish.minnows"
+    },
+    "-541206665": {
+        "link": "https://rustlabs.com/img/items180/woodtea.advanced.png",
+        "name": "Advanced Wood Tea",
+        "shortname": "woodtea.advanced"
+    },
+    "-520133715": {
+        "link": "https://rustlabs.com/img/items180/seed.yellow.berry.png",
+        "name": "Yellow Berry Seed",
+        "shortname": "seed.yellow.berry"
+    },
+    "-515830359": {
+        "link": "https://rustlabs.com/img/items180/firework.romancandle.blue.png",
+        "name": "Blue Roman Candle",
+        "shortname": "firework.romancandle.blue"
+    },
+    "-502177121": {
+        "link": "https://rustlabs.com/img/items180/electric.doorcontroller.png",
+        "name": "Door Controller",
+        "shortname": "electric.doorcontroller"
+    },
+    "-496584751": {
+        "link": "https://rustlabs.com/img/items180/radiationremovetea.png",
+        "name": "Rad. Removal Tea",
+        "shortname": "radiationremovetea"
+    },
+    "-493159321": {
+        "link": "https://rustlabs.com/img/items180/sparkplug2.png",
+        "name": "Medium Quality Spark Plugs",
+        "shortname": "sparkplug2"
+    },
+    "-489848205": {
+        "link": "https://rustlabs.com/img/items180/largecandles.png",
+        "name": "Large Candle Set",
+        "shortname": "largecandles"
+    },
+    "-487356515": {
+        "link": "https://rustlabs.com/img/items180/radiationresisttea.png",
+        "name": "Anti-Rad Tea",
+        "shortname": "radiationresisttea"
+    },
+    "-484206264": {
+        "link": "https://rustlabs.com/img/items180/keycard_blue.png",
+        "name": "Blue Keycard",
+        "shortname": "keycard_blue"
+    },
+    "-465682601": {
+        "link": "https://rustlabs.com/img/items180/stocking.large.png",
+        "name": "SUPER Stocking",
+        "shortname": "stocking.large"
+    },
+    "-463122489": {
+        "link": "https://rustlabs.com/img/items180/watchtower.wood.png",
+        "name": "Watch Tower",
+        "shortname": "watchtower.wood"
+    },
+    "-458565393": {
+        "link": "https://rustlabs.com/img/items180/electrical.combiner.png",
+        "name": "Root Combiner",
+        "shortname": "electrical.combiner"
+    },
+    "-454370658": {
+        "link": "https://rustlabs.com/img/items180/firework.volcano.red.png",
+        "name": "Red Volcano Firework",
+        "shortname": "firework.volcano.red"
+    },
+    "-395377963": {
+        "link": "https://rustlabs.com/img/items180/wolfmeat.raw.png",
+        "name": "Raw Wolf Meat",
+        "shortname": "wolfmeat.raw"
+    },
+    "-384243979": {
+        "link": "https://rustlabs.com/img/items180/ammo.rocket.sam.png",
+        "name": "SAM Ammo",
+        "shortname": "ammo.rocket.sam"
+    },
+    "-369760990": {
+        "link": "https://rustlabs.com/img/items180/stash.small.png",
+        "name": "Small Stash",
+        "shortname": "stash.small"
+    },
+    "-365097295": {
+        "link": "https://rustlabs.com/img/items180/powered.water.purifier.png",
+        "name": "Powered Water Purifier",
+        "shortname": "powered.water.purifier"
+    },
+    "-363689972": {
+        "link": "https://rustlabs.com/img/items180/snowball.png",
+        "name": "Snowball",
+        "shortname": "snowball"
+    },
+    "-343857907": {
+        "link": "https://rustlabs.com/img/items180/soundlight.png",
+        "name": "Sound Light",
+        "shortname": "soundlight"
+    },
+    "-335089230": {
+        "link": "https://rustlabs.com/img/items180/gates.external.high.wood.png",
+        "name": "High External Wooden Gate",
+        "shortname": "gates.external.high.wood"
+    },
+    "-333406828": {
+        "link": "https://rustlabs.com/img/items180/sled.png",
+        "name": "Sled",
+        "shortname": "sled"
+    },
+    "-324675402": {
+        "link": "https://rustlabs.com/img/items180/attire.reindeer.headband.png",
+        "name": "Reindeer Antlers",
+        "shortname": "attire.reindeer.headband"
+    },
+    "-321733511": {
+        "link": "https://rustlabs.com/img/items180/crude.oil.png",
+        "name": "Crude Oil",
+        "shortname": "crude.oil"
+    },
+    "-321431890": {
+        "link": "https://rustlabs.com/img/items180/beachchair.png",
+        "name": "Beach Chair",
+        "shortname": "beachchair"
+    },
+    "-316250604": {
+        "link": "https://rustlabs.com/img/items180/ladder.wooden.wall.png",
+        "name": "Wooden Ladder",
+        "shortname": "ladder.wooden.wall"
+    },
+    "-295829489": {
+        "link": "https://rustlabs.com/img/items180/electric.generator.small.png",
+        "name": "Test Generator",
+        "shortname": "electric.generator.small"
+    },
+    "-282113991": {
+        "link": "https://rustlabs.com/img/items180/electric.simplelight.png",
+        "name": "Simple Light",
+        "shortname": "electric.simplelight"
+    },
+    "-280223496": {
+        "link": "https://rustlabs.com/img/items180/firework.boomer.violet.png",
+        "name": "Violet Boomer",
+        "shortname": "firework.boomer.violet"
+    },
+    "-277057363": {
+        "link": "https://rustlabs.com/img/items180/water.salt.png",
+        "name": "Salt Water",
+        "shortname": "water.salt"
+    },
+    "-265876753": {
+        "link": "https://rustlabs.com/img/items180/gunpowder.png",
+        "name": "Gun Powder",
+        "shortname": "gunpowder"
+    },
+    "-265292885": {
+        "link": "https://rustlabs.com/img/items180/fluid.combiner.png",
+        "name": "Fluid Combiner",
+        "shortname": "fluid.combiner"
+    },
+    "-262590403": {
+        "link": "https://rustlabs.com/img/items180/axe.salvaged.png",
+        "name": "Salvaged Axe",
+        "shortname": "axe.salvaged"
+    },
+    "-253079493": {
+        "link": "https://rustlabs.com/img/items180/hazmatsuit_scientist.png",
+        "name": "Scientist Suit",
+        "shortname": "hazmatsuit_scientist"
+    },
+    "-242084766": {
+        "link": "https://rustlabs.com/img/items180/meat.pork.cooked.png",
+        "name": "Cooked Pork",
+        "shortname": "meat.pork.cooked"
+    },
+    "-239306133": {
+        "link": "https://rustlabs.com/img/items180/submarine.torpedo.rising.png",
+        "name": "Surface torpedo",
+        "shortname": "submarine.torpedo.rising"
+    },
+    "-237809779": {
+        "link": "https://rustlabs.com/img/items180/seed.hemp.png",
+        "name": "Hemp Seed",
+        "shortname": "seed.hemp"
+    },
+    "-216999575": {
+        "link": "https://rustlabs.com/img/items180/electric.counter.png",
+        "name": "Counter",
+        "shortname": "electric.counter"
+    },
+    "-216116642": {
+        "link": "https://rustlabs.com/img/items180/skulldoorknocker.png",
+        "name": "Skull Door Knocker",
+        "shortname": "skulldoorknocker"
+    },
+    "-211235948": {
+        "link": "https://rustlabs.com/img/items180/xylophone.png",
+        "name": "Xylobone",
+        "shortname": "xylophone"
+    },
+    "-209869746": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.candycanes.png",
+        "name": "Decorative Plastic Candy Canes",
+        "shortname": "xmas.decoration.candycanes"
+    },
+    "-196667575": {
+        "link": "https://rustlabs.com/img/items180/flashlight.held.png",
+        "name": "Flashlight",
+        "shortname": "flashlight.held"
+    },
+    "-194953424": {
+        "link": "https://rustlabs.com/img/items180/metal.facemask.png",
+        "name": "Metal Facemask",
+        "shortname": "metal.facemask"
+    },
+    "-194509282": {
+        "link": "https://rustlabs.com/img/items180/knife.butcher.png",
+        "name": "Butcher Knife",
+        "shortname": "knife.butcher"
+    },
+    "-187031121": {
+        "link": "https://rustlabs.com/img/items180/submarinesolo.png",
+        "name": "Solo Submarine",
+        "shortname": "submarinesolo"
+    },
+    "-180129657": {
+        "link": "https://rustlabs.com/img/items180/box.wooden.png",
+        "name": "Wood Storage Box",
+        "shortname": "box.wooden"
+    },
+    "-176608084": {
+        "link": "https://rustlabs.com/img/items180/sunglasses03black.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses03black"
+    },
+    "-173268132": {
+        "link": "https://rustlabs.com/img/items180/rustige_egg_b.png",
+        "name": "Rustig\u00e9 Egg - Blue",
+        "shortname": "rustige_egg_b"
+    },
+    "-173268131": {
+        "link": "https://rustlabs.com/img/items180/rustige_egg_c.png",
+        "name": "Rustig\u00e9 Egg - Purple",
+        "shortname": "rustige_egg_c"
+    },
+    "-173268129": {
+        "link": "https://rustlabs.com/img/items180/rustige_egg_a.png",
+        "name": "Rustig\u00e9 Egg - Red",
+        "shortname": "rustige_egg_a"
+    },
+    "-173268126": {
+        "link": "https://rustlabs.com/img/items180/rustige_egg_d.png",
+        "name": "Rustig\u00e9 Egg - Ivory",
+        "shortname": "rustige_egg_d"
+    },
+    "-173268125": {
+        "link": "https://rustlabs.com/img/items180/rustige_egg_e.png",
+        "name": "Rustig\u00e9 Egg - Green",
+        "shortname": "rustige_egg_e"
+    },
+    "-156748077": {
+        "link": "https://rustlabs.com/img/items180/skull.trophy.table.png",
+        "name": "Skull Trophy",
+        "shortname": "skull.trophy.table"
+    },
+    "-151838493": {
+        "link": "https://rustlabs.com/img/items180/wood.png",
+        "name": "Wood",
+        "shortname": "wood"
+    },
+    "-151387974": {
+        "link": "https://rustlabs.com/img/items180/xmas.lightstring.advanced.png",
+        "name": "Deluxe Christmas Lights",
+        "shortname": "xmas.lightstring.advanced"
+    },
+    "-148794216": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.garagedoor.png",
+        "name": "Garage Door",
+        "shortname": "wall.frame.garagedoor"
+    },
+    "-148229307": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.shopfront.metal.png",
+        "name": "Metal Shop Front",
+        "shortname": "wall.frame.shopfront.metal"
+    },
+    "-144417939": {
+        "link": "https://rustlabs.com/img/items180/wiretool.png",
+        "name": "Wire Tool",
+        "shortname": "wiretool"
+    },
+    "-143132326": {
+        "link": "https://rustlabs.com/img/items180/sign.wooden.huge.png",
+        "name": "Huge Wooden Sign",
+        "shortname": "sign.wooden.huge"
+    },
+    "-135252633": {
+        "link": "https://rustlabs.com/img/items180/sled.xmas.png",
+        "name": "Sled",
+        "shortname": "sled.xmas"
+    },
+    "-132516482": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.lasersight.png",
+        "name": "Weapon Lasersight",
+        "shortname": "weapon.mod.lasersight"
+    },
+    "-132247350": {
+        "link": "https://rustlabs.com/img/items180/water.catcher.small.png",
+        "name": "Small Water Catcher",
+        "shortname": "water.catcher.small"
+    },
+    "-129230242": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.pinecone.png",
+        "name": "Decorative Pinecones",
+        "shortname": "xmas.decoration.pinecone"
+    },
+    "-126305173": {
+        "link": "https://rustlabs.com/img/items180/easter.paintedeggs.png",
+        "name": "Painted Egg",
+        "shortname": "easter.paintedeggs"
+    },
+    "-119235651": {
+        "link": "https://rustlabs.com/img/items180/waterjug.png",
+        "name": "Water Jug",
+        "shortname": "waterjug"
+    },
+    "-113413047": {
+        "link": "https://rustlabs.com/img/items180/diving.mask.png",
+        "name": "Diving Mask",
+        "shortname": "diving.mask"
+    },
+    "-110921842": {
+        "link": "https://rustlabs.com/img/items180/locker.png",
+        "name": "Locker",
+        "shortname": "locker"
+    },
+    "-99886070": {
+        "link": "https://rustlabs.com/img/items180/firework.romancandle.violet.png",
+        "name": "Violet Roman Candle",
+        "shortname": "firework.romancandle.violet"
+    },
+    "-97956382": {
+        "link": "https://rustlabs.com/img/items180/cupboard.tool.png",
+        "name": "Tool Cupboard",
+        "shortname": "cupboard.tool"
+    },
+    "-97459906": {
+        "link": "https://rustlabs.com/img/items180/jumpsuit.suit.png",
+        "name": "Jumpsuit",
+        "shortname": "jumpsuit.suit"
+    },
+    "-92759291": {
+        "link": "https://rustlabs.com/img/items180/spikes.floor.png",
+        "name": "Wooden Floor Spikes",
+        "shortname": "spikes.floor"
+    },
+    "-89874794": {
+        "link": "https://rustlabs.com/img/items180/sparkplug1.png",
+        "name": "Low Quality Spark Plugs",
+        "shortname": "sparkplug1"
+    },
+    "-78533081": {
+        "link": "https://rustlabs.com/img/items180/deermeat.burned.png",
+        "name": "Burnt Deer Meat",
+        "shortname": "deermeat.burned"
+    },
+    "-75944661": {
+        "link": "https://rustlabs.com/img/items180/pistol.eoka.png",
+        "name": "Eoka Pistol",
+        "shortname": "pistol.eoka"
+    },
+    "-48090175": {
+        "link": "https://rustlabs.com/img/items180/jacket.snow.png",
+        "name": "Snow Jacket",
+        "shortname": "jacket.snow"
+    },
+    "-44876289": {
+        "link": "https://rustlabs.com/img/items180/electric.igniter.png",
+        "name": "Igniter",
+        "shortname": "electric.igniter"
+    },
+    "-44066823": {
+        "link": "https://rustlabs.com/img/items180/vehicle.chassis.3mod.png",
+        "name": "Medium Chassis",
+        "shortname": "vehicle.chassis.3mod"
+    },
+    "-44066790": {
+        "link": "https://rustlabs.com/img/items180/vehicle.chassis.4mod.png",
+        "name": "Large Chassis",
+        "shortname": "vehicle.chassis.4mod"
+    },
+    "-44066600": {
+        "link": "https://rustlabs.com/img/items180/vehicle.chassis.2mod.png",
+        "name": "Small Chassis",
+        "shortname": "vehicle.chassis.2mod"
+    },
+    "-41896755": {
+        "link": "https://rustlabs.com/img/items180/workbench2.png",
+        "name": "Work Bench Level 2",
+        "shortname": "workbench2"
+    },
+    "-41440462": {
+        "link": "https://rustlabs.com/img/items180/shotgun.spas12.png",
+        "name": "Spas-12 Shotgun",
+        "shortname": "shotgun.spas12"
+    },
+    "-33009419": {
+        "link": "https://rustlabs.com/img/items180/radiationresisttea.pure.png",
+        "name": "Pure Anti-Rad Tea",
+        "shortname": "radiationresisttea.pure"
+    },
+    "-25740268": {
+        "link": "https://rustlabs.com/img/items180/skullspikes.candles.png",
+        "name": "Skull Spikes",
+        "shortname": "skullspikes.candles"
+    },
+    "-23994173": {
+        "link": "https://rustlabs.com/img/items180/hat.boonie.png",
+        "name": "Boonie Hat",
+        "shortname": "hat.boonie"
+    },
+    "-22883916": {
+        "link": "https://rustlabs.com/img/items180/hat.dragonmask.png",
+        "name": "Dragon Mask",
+        "shortname": "hat.dragonmask"
+    },
+    "-20045316": {
+        "link": "https://rustlabs.com/img/items180/mobilephone.png",
+        "name": "Mobile Phone",
+        "shortname": "mobilephone"
+    },
+    "-17123659": {
+        "link": "https://rustlabs.com/img/items180/ammo.rocket.smoke.png",
+        "name": "Smoke Rocket WIP!!!!",
+        "shortname": "ammo.rocket.smoke"
+    },
+    "-8312704": {
+        "link": "https://rustlabs.com/img/items180/beachtowel.png",
+        "name": "Beach Towel",
+        "shortname": "beachtowel"
+    },
+    "-7270019": {
+        "link": "https://rustlabs.com/img/items180/firework.boomer.orange.png",
+        "name": "Orange Boomer",
+        "shortname": "firework.boomer.orange"
+    },
+    "-4031221": {
+        "link": "https://rustlabs.com/img/items180/metal.ore.png",
+        "name": "Metal Ore",
+        "shortname": "metal.ore"
+    },
+    "3222790": {
+        "link": "https://rustlabs.com/img/items180/attire.hide.helterneck.png",
+        "name": "Hide Halterneck",
+        "shortname": "attire.hide.helterneck"
+    },
+    "3380160": {
+        "link": "https://rustlabs.com/img/items180/movembermoustachecard.png",
+        "name": "Card Movember Moustache",
+        "shortname": "movembermoustachecard"
+    },
+    "14241751": {
+        "link": "https://rustlabs.com/img/items180/arrow.fire.png",
+        "name": "Fire Arrow",
+        "shortname": "arrow.fire"
+    },
+    "15388698": {
+        "link": "https://rustlabs.com/img/items180/barricade.stone.png",
+        "name": "Stone Barricade",
+        "shortname": "barricade.stone"
+    },
+    "20489901": {
+        "link": "https://rustlabs.com/img/items180/twitchsunglasses.png",
+        "name": "Purple Sunglasses",
+        "shortname": "twitchsunglasses"
+    },
+    "21402876": {
+        "link": "https://rustlabs.com/img/items180/burlap.gloves.new.png",
+        "name": "Burlap Gloves",
+        "shortname": "burlap.gloves.new"
+    },
+    "23352662": {
+        "link": "https://rustlabs.com/img/items180/sign.hanging.banner.large.png",
+        "name": "Large Banner Hanging",
+        "shortname": "sign.hanging.banner.large"
+    },
+    "23391694": {
+        "link": "https://rustlabs.com/img/items180/hat.bunnyhat.png",
+        "name": "Bunny Hat",
+        "shortname": "hat.bunnyhat"
+    },
+    "28201841": {
+        "link": "https://rustlabs.com/img/items180/rifle.m39.png",
+        "name": "M39 Rifle",
+        "shortname": "rifle.m39"
+    },
+    "37122747": {
+        "link": "https://rustlabs.com/img/items180/keycard_green.png",
+        "name": "Green Keycard",
+        "shortname": "keycard_green"
+    },
+    "39600618": {
+        "link": "https://rustlabs.com/img/items180/microphonestand.png",
+        "name": "Microphone Stand",
+        "shortname": "microphonestand"
+    },
+    "42535890": {
+        "link": "https://rustlabs.com/img/items180/sign.neon.125x215.animated.png",
+        "name": "Medium Animated Neon Sign",
+        "shortname": "sign.neon.125x215.animated"
+    },
+    "51984655": {
+        "link": "https://rustlabs.com/img/items180/ammo.pistol.fire.png",
+        "name": "Incendiary Pistol Bullet",
+        "shortname": "ammo.pistol.fire"
+    },
+    "60528587": {
+        "link": "https://rustlabs.com/img/items180/horse.armor.roadsign.png",
+        "name": "Roadsign Horse Armor",
+        "shortname": "horse.armor.roadsign"
+    },
+    "62577426": {
+        "link": "https://rustlabs.com/img/items180/photo.png",
+        "name": "Photograph",
+        "shortname": "photo"
+    },
+    "69511070": {
+        "link": "https://rustlabs.com/img/items180/metal.fragments.png",
+        "name": "Metal Fragments",
+        "shortname": "metal.fragments"
+    },
+    "73681876": {
+        "link": "https://rustlabs.com/img/items180/techparts.png",
+        "name": "Tech Trash",
+        "shortname": "techparts"
+    },
+    "95950017": {
+        "link": "https://rustlabs.com/img/items180/metalpipe.png",
+        "name": "Metal Pipe",
+        "shortname": "metalpipe"
+    },
+    "98508942": {
+        "link": "https://rustlabs.com/img/items180/sign.pictureframe.xxl.png",
+        "name": "XXL Picture Frame",
+        "shortname": "sign.pictureframe.xxl"
+    },
+    "99588025": {
+        "link": "https://rustlabs.com/img/items180/wall.external.high.png",
+        "name": "High External Wooden Wall",
+        "shortname": "wall.external.high"
+    },
+    "121049755": {
+        "link": "https://rustlabs.com/img/items180/sign.pictureframe.tall.png",
+        "name": "Tall Picture Frame",
+        "shortname": "sign.pictureframe.tall"
+    },
+    "122783240": {
+        "link": "https://rustlabs.com/img/items180/clone.black.berry.png",
+        "name": "Black Berry Clone",
+        "shortname": "clone.black.berry"
+    },
+    "143803535": {
+        "link": "https://rustlabs.com/img/items180/grenade.f1.png",
+        "name": "F1 Grenade",
+        "shortname": "grenade.f1"
+    },
+    "170758448": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.cockpit.with.engine.png",
+        "name": "Cockpit With Engine Vehicle Module",
+        "shortname": "vehicle.1mod.cockpit.with.engine"
+    },
+    "171931394": {
+        "link": "https://rustlabs.com/img/items180/stone.pickaxe.png",
+        "name": "Stone Pickaxe",
+        "shortname": "stone.pickaxe"
+    },
+    "174866732": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.8x.scope.png",
+        "name": "16x Zoom Scope",
+        "shortname": "weapon.mod.8x.scope"
+    },
+    "176787552": {
+        "link": "https://rustlabs.com/img/items180/riflebody.png",
+        "name": "Rifle Body",
+        "shortname": "riflebody"
+    },
+    "177226991": {
+        "link": "https://rustlabs.com/img/items180/scarecrow.png",
+        "name": "Scarecrow",
+        "shortname": "scarecrow"
+    },
+    "185586769": {
+        "link": "https://rustlabs.com/img/items180/innertube.horse.png",
+        "name": "Inner Tube",
+        "shortname": "innertube.horse"
+    },
+    "190184021": {
+        "link": "https://rustlabs.com/img/items180/kayak.png",
+        "name": "Kayak",
+        "shortname": "kayak"
+    },
+    "196700171": {
+        "link": "https://rustlabs.com/img/items180/attire.hide.vest.png",
+        "name": "Hide Vest",
+        "shortname": "attire.hide.vest"
+    },
+    "198438816": {
+        "link": "https://rustlabs.com/img/items180/vending.machine.png",
+        "name": "Vending Machine",
+        "shortname": "vending.machine"
+    },
+    "200773292": {
+        "link": "https://rustlabs.com/img/items180/hammer.png",
+        "name": "Hammer",
+        "shortname": "hammer"
+    },
+    "204391461": {
+        "link": "https://rustlabs.com/img/items180/coal.png",
+        "name": "Coal :(",
+        "shortname": "coal"
+    },
+    "204970153": {
+        "link": "https://rustlabs.com/img/items180/wrappedgift.png",
+        "name": "Wrapped Gift",
+        "shortname": "wrappedgift"
+    },
+    "215754713": {
+        "link": "https://rustlabs.com/img/items180/arrow.bone.png",
+        "name": "Bone Arrow",
+        "shortname": "arrow.bone"
+    },
+    "223891266": {
+        "link": "https://rustlabs.com/img/items180/tshirt.png",
+        "name": "T-Shirt",
+        "shortname": "tshirt"
+    },
+    "237239288": {
+        "link": "https://rustlabs.com/img/items180/pants.png",
+        "name": "Pants",
+        "shortname": "pants"
+    },
+    "254522515": {
+        "link": "https://rustlabs.com/img/items180/largemedkit.png",
+        "name": "Large Medkit",
+        "shortname": "largemedkit"
+    },
+    "261913429": {
+        "link": "https://rustlabs.com/img/items180/firework.volcano.png",
+        "name": "White Volcano Firework",
+        "shortname": "firework.volcano"
+    },
+    "263834859": {
+        "link": "https://rustlabs.com/img/items180/scraptea.png",
+        "name": "Basic Scrap Tea",
+        "shortname": "scraptea"
+    },
+    "268565518": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.storage.png",
+        "name": "Storage Vehicle Module",
+        "shortname": "vehicle.1mod.storage"
+    },
+    "271048478": {
+        "link": "https://rustlabs.com/img/items180/hat.ratmask.png",
+        "name": "Rat Mask",
+        "shortname": "hat.ratmask"
+    },
+    "273172220": {
+        "link": "https://rustlabs.com/img/items180/fun.trumpet.png",
+        "name": "Plumber's Trumpet",
+        "shortname": "fun.trumpet"
+    },
+    "273951840": {
+        "link": "https://rustlabs.com/img/items180/scarecrow.suit.png",
+        "name": "Scarecrow Suit",
+        "shortname": "scarecrow.suit"
+    },
+    "277730763": {
+        "link": "https://rustlabs.com/img/items180/halloween.mummysuit.png",
+        "name": "Mummy Suit",
+        "shortname": "halloween.mummysuit"
+    },
+    "282103175": {
+        "link": "https://rustlabs.com/img/items180/giantlollipops.png",
+        "name": "Giant Lollipop Decor",
+        "shortname": "giantlollipops"
+    },
+    "286193827": {
+        "link": "https://rustlabs.com/img/items180/jar.pickle.png",
+        "name": "Pickles",
+        "shortname": "jar.pickle"
+    },
+    "286648290": {
+        "link": "https://rustlabs.com/img/items180/discofloor.png",
+        "name": "Disco Floor",
+        "shortname": "discofloor"
+    },
+    "296519935": {
+        "link": "https://rustlabs.com/img/items180/diving.fins.png",
+        "name": "Diving Fins",
+        "shortname": "diving.fins"
+    },
+    "304481038": {
+        "link": "https://rustlabs.com/img/items180/flare.png",
+        "name": "Flare",
+        "shortname": "flare"
+    },
+    "317398316": {
+        "link": "https://rustlabs.com/img/items180/metal.refined.png",
+        "name": "High Quality Metal",
+        "shortname": "metal.refined"
+    },
+    "342438846": {
+        "link": "https://rustlabs.com/img/items180/fish.anchovy.png",
+        "name": "Anchovy",
+        "shortname": "fish.anchovy"
+    },
+    "349762871": {
+        "link": "https://rustlabs.com/img/items180/ammo.grenadelauncher.he.png",
+        "name": "40mm HE Grenade",
+        "shortname": "ammo.grenadelauncher.he"
+    },
+    "352130972": {
+        "link": "https://rustlabs.com/img/items180/apple.spoiled.png",
+        "name": "Rotten Apple",
+        "shortname": "apple.spoiled"
+    },
+    "352321488": {
+        "link": "https://rustlabs.com/img/items180/sunglasses.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses"
+    },
+    "352499047": {
+        "link": "https://rustlabs.com/img/items180/guntrap.png",
+        "name": "Shotgun Trap",
+        "shortname": "guntrap"
+    },
+    "359723196": {
+        "link": "https://rustlabs.com/img/items180/arcade.machine.chippy.png",
+        "name": "Chippy Arcade Game",
+        "shortname": "arcade.machine.chippy"
+    },
+    "363163265": {
+        "link": "https://rustlabs.com/img/items180/hosetool.png",
+        "name": "Hose Tool",
+        "shortname": "hosetool"
+    },
+    "363467698": {
+        "link": "https://rustlabs.com/img/items180/chocholate.png",
+        "name": "Chocolate Bar",
+        "shortname": "chocholate"
+    },
+    "390728933": {
+        "link": "https://rustlabs.com/img/items180/clone.yellow.berry.png",
+        "name": "Yellow Berry Clone",
+        "shortname": "clone.yellow.berry"
+    },
+    "418081930": {
+        "link": "https://rustlabs.com/img/items180/wood.armor.jacket.png",
+        "name": "Wood Chestplate",
+        "shortname": "wood.armor.jacket"
+    },
+    "442289265": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.holosight.png",
+        "name": "Holosight",
+        "shortname": "weapon.mod.holosight"
+    },
+    "442886268": {
+        "link": "https://rustlabs.com/img/items180/rocket.launcher.png",
+        "name": "Rocket Launcher",
+        "shortname": "rocket.launcher"
+    },
+    "443432036": {
+        "link": "https://rustlabs.com/img/items180/fluid.switch.png",
+        "name": "Fluid Switch & Pump",
+        "shortname": "fluid.switch"
+    },
+    "476066818": {
+        "link": "https://rustlabs.com/img/items180/cassette.png",
+        "name": "Cassette - Long",
+        "shortname": "cassette"
+    },
+    "479143914": {
+        "link": "https://rustlabs.com/img/items180/gears.png",
+        "name": "Gears",
+        "shortname": "gears"
+    },
+    "479292118": {
+        "link": "https://rustlabs.com/img/items180/halloween.lootbag.large.png",
+        "name": "Large Loot Bag",
+        "shortname": "halloween.lootbag.large"
+    },
+    "492357192": {
+        "link": "https://rustlabs.com/img/items180/electric.random.switch.png",
+        "name": "RAND Switch",
+        "shortname": "electric.random.switch"
+    },
+    "524678627": {
+        "link": "https://rustlabs.com/img/items180/scraptea.advanced.png",
+        "name": "Advanced Scrap Tea",
+        "shortname": "scraptea.advanced"
+    },
+    "528668503": {
+        "link": "https://rustlabs.com/img/items180/flameturret.png",
+        "name": "Flame Turret",
+        "shortname": "flameturret"
+    },
+    "553270375": {
+        "link": "https://rustlabs.com/img/items180/electric.battery.rechargable.large.png",
+        "name": "Large Rechargeable Battery",
+        "shortname": "electric.battery.rechargable.large"
+    },
+    "553887414": {
+        "link": "https://rustlabs.com/img/items180/skull_fire_pit.png",
+        "name": "Skull Fire Pit",
+        "shortname": "skull_fire_pit"
+    },
+    "559147458": {
+        "link": "https://rustlabs.com/img/items180/fishtrap.small.png",
+        "name": "Survival Fish Trap",
+        "shortname": "fishtrap.small"
+    },
+    "567235583": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.small.scope.png",
+        "name": "8x Zoom Scope",
+        "shortname": "weapon.mod.small.scope"
+    },
+    "567871954": {
+        "link": "https://rustlabs.com/img/items180/secretlabchair.png",
+        "name": "Secret Lab Chair",
+        "shortname": "secretlabchair"
+    },
+    "573676040": {
+        "link": "https://rustlabs.com/img/items180/coffin.storage.png",
+        "name": "Coffin",
+        "shortname": "coffin.storage"
+    },
+    "573926264": {
+        "link": "https://rustlabs.com/img/items180/semibody.png",
+        "name": "Semi Automatic Body",
+        "shortname": "semibody"
+    },
+    "576509618": {
+        "link": "https://rustlabs.com/img/items180/fun.boomboxportable.png",
+        "name": "Portable Boom Box",
+        "shortname": "fun.boomboxportable"
+    },
+    "588596902": {
+        "link": "https://rustlabs.com/img/items180/ammo.handmade.shell.png",
+        "name": "Handmade Shell",
+        "shortname": "ammo.handmade.shell"
+    },
+    "593465182": {
+        "link": "https://rustlabs.com/img/items180/table.png",
+        "name": "Table",
+        "shortname": "table"
+    },
+    "596469572": {
+        "link": "https://rustlabs.com/img/items180/rf.detonator.png",
+        "name": "RF Transmitter",
+        "shortname": "rf.detonator"
+    },
+    "602741290": {
+        "link": "https://rustlabs.com/img/items180/burlap.shirt.png",
+        "name": "Burlap Shirt",
+        "shortname": "burlap.shirt"
+    },
+    "603811464": {
+        "link": "https://rustlabs.com/img/items180/maxhealthtea.advanced.png",
+        "name": "Advanced Max Health Tea",
+        "shortname": "maxhealthtea.advanced"
+    },
+    "605467368": {
+        "link": "https://rustlabs.com/img/items180/ammo.rifle.incendiary.png",
+        "name": "Incendiary 5.56 Rifle Ammo",
+        "shortname": "ammo.rifle.incendiary"
+    },
+    "609049394": {
+        "link": "https://rustlabs.com/img/items180/battery.small.png",
+        "name": "Battery - Small",
+        "shortname": "battery.small"
+    },
+    "613961768": {
+        "link": "https://rustlabs.com/img/items180/botabag.png",
+        "name": "Bota Bag",
+        "shortname": "botabag"
+    },
+    "621915341": {
+        "link": "https://rustlabs.com/img/items180/meat.boar.png",
+        "name": "Raw Pork",
+        "shortname": "meat.boar"
+    },
+    "634478325": {
+        "link": "https://rustlabs.com/img/items180/cctv.camera.png",
+        "name": "CCTV Camera",
+        "shortname": "cctv.camera"
+    },
+    "642482233": {
+        "link": "https://rustlabs.com/img/items180/sticks.png",
+        "name": "Sticks",
+        "shortname": "sticks"
+    },
+    "649912614": {
+        "link": "https://rustlabs.com/img/items180/pistol.revolver.png",
+        "name": "Revolver",
+        "shortname": "pistol.revolver"
+    },
+    "656371026": {
+        "link": "https://rustlabs.com/img/items180/carburetor3.png",
+        "name": "High Quality Carburetor",
+        "shortname": "carburetor3"
+    },
+    "656371027": {
+        "link": "https://rustlabs.com/img/items180/carburetor2.png",
+        "name": "Medium Quality Carburetor",
+        "shortname": "carburetor2"
+    },
+    "656371028": {
+        "link": "https://rustlabs.com/img/items180/carburetor1.png",
+        "name": "Low Quality Carburetor",
+        "shortname": "carburetor1"
+    },
+    "657352755": {
+        "link": "https://rustlabs.com/img/items180/beachtable.png",
+        "name": "Beach Table",
+        "shortname": "beachtable"
+    },
+    "665332906": {
+        "link": "https://rustlabs.com/img/items180/electric.timer.png",
+        "name": "Timer",
+        "shortname": "electric.timer"
+    },
+    "671063303": {
+        "link": "https://rustlabs.com/img/items180/riot.helmet.png",
+        "name": "Riot Helmet",
+        "shortname": "riot.helmet"
+    },
+    "671706427": {
+        "link": "https://rustlabs.com/img/items180/wall.window.bars.toptier.png",
+        "name": "Reinforced Glass Window",
+        "shortname": "wall.window.bars.toptier"
+    },
+    "674734128": {
+        "link": "https://rustlabs.com/img/items180/xmas.door.garland.png",
+        "name": "Festive Doorway Garland",
+        "shortname": "xmas.door.garland"
+    },
+    "680234026": {
+        "link": "https://rustlabs.com/img/items180/fish.yellowperch.png",
+        "name": "Yellow Perch",
+        "shortname": "fish.yellowperch"
+    },
+    "696029452": {
+        "link": "https://rustlabs.com/img/items180/map.png",
+        "name": "Paper Map",
+        "shortname": "map"
+    },
+    "699075597": {
+        "link": "https://rustlabs.com/img/items180/woodcross.png",
+        "name": "Wooden Cross",
+        "shortname": "woodcross"
+    },
+    "722955039": {
+        "link": "https://rustlabs.com/img/items180/gun.water.png",
+        "name": "Water Gun",
+        "shortname": "gun.water"
+    },
+    "756517185": {
+        "link": "https://rustlabs.com/img/items180/xmas.present.medium.png",
+        "name": "Medium Present",
+        "shortname": "xmas.present.medium"
+    },
+    "762289806": {
+        "link": "https://rustlabs.com/img/items180/electric.sirenlight.png",
+        "name": "Siren Light",
+        "shortname": "electric.sirenlight"
+    },
+    "785728077": {
+        "link": "https://rustlabs.com/img/items180/ammo.pistol.png",
+        "name": "Pistol Bullet",
+        "shortname": "ammo.pistol"
+    },
+    "794356786": {
+        "link": "https://rustlabs.com/img/items180/attire.hide.boots.png",
+        "name": "Hide Boots",
+        "shortname": "attire.hide.boots"
+    },
+    "794443127": {
+        "link": "https://rustlabs.com/img/items180/xmas.tree.png",
+        "name": "Christmas Tree",
+        "shortname": "xmas.tree"
+    },
+    "795236088": {
+        "link": "https://rustlabs.com/img/items180/torch.png",
+        "name": "Torch",
+        "shortname": "torch"
+    },
+    "795371088": {
+        "link": "https://rustlabs.com/img/items180/shotgun.pump.png",
+        "name": "Pump Shotgun",
+        "shortname": "shotgun.pump"
+    },
+    "803222026": {
+        "link": "https://rustlabs.com/img/items180/box.repair.bench.png",
+        "name": "Repair Bench",
+        "shortname": "box.repair.bench"
+    },
+    "803954639": {
+        "link": "https://rustlabs.com/img/items180/seed.blue.berry.png",
+        "name": "Blue Berry Seed",
+        "shortname": "seed.blue.berry"
+    },
+    "809199956": {
+        "link": "https://rustlabs.com/img/items180/gravestone.png",
+        "name": "Gravestone",
+        "shortname": "gravestone"
+    },
+    "809942731": {
+        "link": "https://rustlabs.com/img/items180/scarecrowhead.png",
+        "name": "Scarecrow Wrap",
+        "shortname": "scarecrowhead"
+    },
+    "813023040": {
+        "link": "https://rustlabs.com/img/items180/wolfmeat.cooked.png",
+        "name": "Cooked Wolf Meat",
+        "shortname": "wolfmeat.cooked"
+    },
+    "818733919": {
+        "link": "https://rustlabs.com/img/items180/door.hinged.industrial.a.png",
+        "name": "Industrial Door",
+        "shortname": "door.hinged.industrial.a"
+    },
+    "818877484": {
+        "link": "https://rustlabs.com/img/items180/pistol.semiauto.png",
+        "name": "Semi-Automatic Pistol",
+        "shortname": "pistol.semiauto"
+    },
+    "826309791": {
+        "link": "https://rustlabs.com/img/items180/sign.post.town.roof.png",
+        "name": "Two Sided Town Sign Post",
+        "shortname": "sign.post.town.roof"
+    },
+    "830839496": {
+        "link": "https://rustlabs.com/img/items180/seed.red.berry.png",
+        "name": "Red Berry Seed",
+        "shortname": "seed.red.berry"
+    },
+    "832133926": {
+        "link": "https://rustlabs.com/img/items180/wood.armor.pants.png",
+        "name": "Wood Armor Pants",
+        "shortname": "wood.armor.pants"
+    },
+    "833533164": {
+        "link": "https://rustlabs.com/img/items180/box.wooden.large.png",
+        "name": "Large Wood Box",
+        "shortname": "box.wooden.large"
+    },
+    "838831151": {
+        "link": "https://rustlabs.com/img/items180/clone.blue.berry.png",
+        "name": "Blue Berry Clone",
+        "shortname": "clone.blue.berry"
+    },
+    "844440409": {
+        "link": "https://rustlabs.com/img/items180/easter.bronzeegg.png",
+        "name": "Bronze Egg",
+        "shortname": "easter.bronzeegg"
+    },
+    "850280505": {
+        "link": "https://rustlabs.com/img/items180/bucket.helmet.png",
+        "name": "Bucket Helmet",
+        "shortname": "bucket.helmet"
+    },
+    "853471967": {
+        "link": "https://rustlabs.com/img/items180/laserlight.png",
+        "name": "Laser Light",
+        "shortname": "laserlight"
+    },
+    "854447607": {
+        "link": "https://rustlabs.com/img/items180/white.berry.png",
+        "name": "White Berry",
+        "shortname": "white.berry"
+    },
+    "858486327": {
+        "link": "https://rustlabs.com/img/items180/green.berry.png",
+        "name": "Green Berry",
+        "shortname": "green.berry"
+    },
+    "866332017": {
+        "link": "https://rustlabs.com/img/items180/sign.neon.xl.png",
+        "name": "Large Neon Sign",
+        "shortname": "sign.neon.xl"
+    },
+    "866889860": {
+        "link": "https://rustlabs.com/img/items180/barricade.wood.png",
+        "name": "Wooden Barricade",
+        "shortname": "barricade.wood"
+    },
+    "878301596": {
+        "link": "https://rustlabs.com/img/items180/vehicle.module.png",
+        "name": "Generic vehicle module",
+        "shortname": "vehicle.module"
+    },
+    "882559853": {
+        "link": "https://rustlabs.com/img/items180/spiderweb.png",
+        "name": "Spider Webs",
+        "shortname": "spiderweb"
+    },
+    "884424049": {
+        "link": "https://rustlabs.com/img/items180/bow.compound.png",
+        "name": "Compound Bow",
+        "shortname": "bow.compound"
+    },
+    "888415708": {
+        "link": "https://rustlabs.com/img/items180/electric.rf.receiver.png",
+        "name": "RF Receiver",
+        "shortname": "electric.rf.receiver"
+    },
+    "895374329": {
+        "link": "https://rustlabs.com/img/items180/vehicle.2mod.passengers.png",
+        "name": "Passenger Vehicle Module",
+        "shortname": "vehicle.2mod.passengers"
+    },
+    "915408809": {
+        "link": "https://rustlabs.com/img/items180/ammo.grenadelauncher.smoke.png",
+        "name": "40mm Smoke Grenade",
+        "shortname": "ammo.grenadelauncher.smoke"
+    },
+    "926800282": {
+        "link": "https://rustlabs.com/img/items180/valve2.png",
+        "name": "Medium Quality Valves",
+        "shortname": "valve2"
+    },
+    "935692442": {
+        "link": "https://rustlabs.com/img/items180/tshirt.long.png",
+        "name": "Longsleeve T-Shirt",
+        "shortname": "tshirt.long"
+    },
+    "936496778": {
+        "link": "https://rustlabs.com/img/items180/floor.grill.png",
+        "name": "Floor grill",
+        "shortname": "floor.grill"
+    },
+    "946662961": {
+        "link": "https://rustlabs.com/img/items180/car.key.png",
+        "name": "Car Key",
+        "shortname": "car.key"
+    },
+    "952603248": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.flashlight.png",
+        "name": "Weapon flashlight",
+        "shortname": "weapon.mod.flashlight"
+    },
+    "963906841": {
+        "link": "https://rustlabs.com/img/items180/rock.png",
+        "name": "Rock",
+        "shortname": "rock"
+    },
+    "968019378": {
+        "link": "https://rustlabs.com/img/items180/clatter.helmet.png",
+        "name": "Clatter Helmet",
+        "shortname": "clatter.helmet"
+    },
+    "968421290": {
+        "link": "https://rustlabs.com/img/items180/connected.speaker.png",
+        "name": "Connected Speaker",
+        "shortname": "connected.speaker"
+    },
+    "971362526": {
+        "link": "https://rustlabs.com/img/items180/skull.trophy.jar.png",
+        "name": "Skull Trophy",
+        "shortname": "skull.trophy.jar"
+    },
+    "980333378": {
+        "link": "https://rustlabs.com/img/items180/attire.hide.poncho.png",
+        "name": "Hide Poncho",
+        "shortname": "attire.hide.poncho"
+    },
+    "988652725": {
+        "link": "https://rustlabs.com/img/items180/smart.switch.png",
+        "name": "Smart Switch",
+        "shortname": "smart.switch"
+    },
+    "989925924": {
+        "link": "https://rustlabs.com/img/items180/fish.raw.png",
+        "name": "Raw Fish",
+        "shortname": "fish.raw"
+    },
+    "996293980": {
+        "link": "https://rustlabs.com/img/items180/skull.human.png",
+        "name": "Human Skull",
+        "shortname": "skull.human"
+    },
+    "998894949": {
+        "link": "https://rustlabs.com/img/items180/seed.corn.png",
+        "name": "Corn Seed",
+        "shortname": "seed.corn"
+    },
+    "999690781": {
+        "link": "https://rustlabs.com/img/items180/geiger.counter.png",
+        "name": "Geiger Counter",
+        "shortname": "geiger.counter"
+    },
+    "1015352446": {
+        "link": "https://rustlabs.com/img/items180/submarineduo.png",
+        "name": "Duo Submarine",
+        "shortname": "submarineduo"
+    },
+    "1052926200": {
+        "link": "https://rustlabs.com/img/items180/mining.quarry.png",
+        "name": "Mining Quarry",
+        "shortname": "mining.quarry"
+    },
+    "1055319033": {
+        "link": "https://rustlabs.com/img/items180/ammo.grenadelauncher.buckshot.png",
+        "name": "40mm Shotgun Round",
+        "shortname": "ammo.grenadelauncher.buckshot"
+    },
+    "1058261682": {
+        "link": "https://rustlabs.com/img/items180/xmas.lightstring.png",
+        "name": "Christmas Lights",
+        "shortname": "xmas.lightstring"
+    },
+    "1072924620": {
+        "link": "https://rustlabs.com/img/items180/sparkplug3.png",
+        "name": "High Quality Spark Plugs",
+        "shortname": "sparkplug3"
+    },
+    "1079279582": {
+        "link": "https://rustlabs.com/img/items180/syringe.medical.png",
+        "name": "Medical Syringe",
+        "shortname": "syringe.medical"
+    },
+    "1081315464": {
+        "link": "https://rustlabs.com/img/items180/attire.nesthat.png",
+        "name": "Nest Hat",
+        "shortname": "attire.nesthat"
+    },
+    "1081921512": {
+        "link": "https://rustlabs.com/img/items180/cardtable.png",
+        "name": "Card Table",
+        "shortname": "cardtable"
+    },
+    "1090916276": {
+        "link": "https://rustlabs.com/img/items180/pitchfork.png",
+        "name": "Pitchfork",
+        "shortname": "pitchfork"
+    },
+    "1094293920": {
+        "link": "https://rustlabs.com/img/items180/wrappingpaper.png",
+        "name": "Wrapping Paper",
+        "shortname": "wrappingpaper"
+    },
+    "1099314009": {
+        "link": "https://rustlabs.com/img/items180/bbq.png",
+        "name": "Barbeque",
+        "shortname": "bbq"
+    },
+    "1103488722": {
+        "link": "https://rustlabs.com/img/items180/snowballgun.png",
+        "name": "Snowball Gun",
+        "shortname": "snowballgun"
+    },
+    "1104520648": {
+        "link": "https://rustlabs.com/img/items180/chainsaw.png",
+        "name": "Chainsaw",
+        "shortname": "chainsaw"
+    },
+    "1110385766": {
+        "link": "https://rustlabs.com/img/items180/metal.plate.torso.png",
+        "name": "Metal Chest Plate",
+        "shortname": "metal.plate.torso"
+    },
+    "1112162468": {
+        "link": "https://rustlabs.com/img/items180/blue.berry.png",
+        "name": "Blue Berry",
+        "shortname": "blue.berry"
+    },
+    "1121925526": {
+        "link": "https://rustlabs.com/img/items180/candycane.png",
+        "name": "Candy Cane",
+        "shortname": "candycane"
+    },
+    "1142993169": {
+        "link": "https://rustlabs.com/img/items180/ceilinglight.png",
+        "name": "Ceiling Light",
+        "shortname": "ceilinglight"
+    },
+    "1149964039": {
+        "link": "https://rustlabs.com/img/items180/storage.monitor.png",
+        "name": "Storage Monitor",
+        "shortname": "storage.monitor"
+    },
+    "1153652756": {
+        "link": "https://rustlabs.com/img/items180/sign.wooden.large.png",
+        "name": "Large Wooden Sign",
+        "shortname": "sign.wooden.large"
+    },
+    "1158340331": {
+        "link": "https://rustlabs.com/img/items180/crankshaft2.png",
+        "name": "Medium Quality Crankshaft",
+        "shortname": "crankshaft2"
+    },
+    "1158340332": {
+        "link": "https://rustlabs.com/img/items180/crankshaft3.png",
+        "name": "High Quality Crankshaft",
+        "shortname": "crankshaft3"
+    },
+    "1158340334": {
+        "link": "https://rustlabs.com/img/items180/crankshaft1.png",
+        "name": "Low Quality Crankshaft",
+        "shortname": "crankshaft1"
+    },
+    "1159991980": {
+        "link": "https://rustlabs.com/img/items180/lock.code.png",
+        "name": "Code Lock",
+        "shortname": "lock.code"
+    },
+    "1160881421": {
+        "link": "https://rustlabs.com/img/items180/hitchtroughcombo.png",
+        "name": "Hitch & Trough",
+        "shortname": "hitchtroughcombo"
+    },
+    "1171735914": {
+        "link": "https://rustlabs.com/img/items180/electric.andswitch.png",
+        "name": "AND Switch",
+        "shortname": "electric.andswitch"
+    },
+    "1177596584": {
+        "link": "https://rustlabs.com/img/items180/elevator.png",
+        "name": "Elevator",
+        "shortname": "elevator"
+    },
+    "1181207482": {
+        "link": "https://rustlabs.com/img/items180/heavy.plate.helmet.png",
+        "name": "Heavy Plate Helmet",
+        "shortname": "heavy.plate.helmet"
+    },
+    "1186655046": {
+        "link": "https://rustlabs.com/img/items180/vehicle.2mod.fuel.tank.png",
+        "name": "Fuel Tank Vehicle Module",
+        "shortname": "vehicle.2mod.fuel.tank"
+    },
+    "1189981699": {
+        "link": "https://rustlabs.com/img/items180/cratecostume.png",
+        "name": "Crate Costume",
+        "shortname": "cratecostume"
+    },
+    "1199391518": {
+        "link": "https://rustlabs.com/img/items180/roadsigns.png",
+        "name": "Road Signs",
+        "shortname": "roadsigns"
+    },
+    "1205084994": {
+        "link": "https://rustlabs.com/img/items180/photoframe.large.png",
+        "name": "Large Photo Frame",
+        "shortname": "photoframe.large"
+    },
+    "1205607945": {
+        "link": "https://rustlabs.com/img/items180/sign.hanging.png",
+        "name": "Two Sided Hanging Sign",
+        "shortname": "sign.hanging"
+    },
+    "1221063409": {
+        "link": "https://rustlabs.com/img/items180/door.double.hinged.toptier.png",
+        "name": "Armored Double Door",
+        "shortname": "door.double.hinged.toptier"
+    },
+    "1230323789": {
+        "link": "https://rustlabs.com/img/items180/smgbody.png",
+        "name": "SMG Body",
+        "shortname": "smgbody"
+    },
+    "1234878710": {
+        "link": "https://rustlabs.com/img/items180/telephone.png",
+        "name": "Telephone",
+        "shortname": "telephone"
+    },
+    "1234880403": {
+        "link": "https://rustlabs.com/img/items180/sewingkit.png",
+        "name": "Sewing Kit",
+        "shortname": "sewingkit"
+    },
+    "1242482355": {
+        "link": "https://rustlabs.com/img/items180/jackolantern.angry.png",
+        "name": "Jack O Lantern Angry",
+        "shortname": "jackolantern.angry"
+    },
+    "1242522330": {
+        "link": "https://rustlabs.com/img/items180/cursedcauldron.png",
+        "name": "Cursed Cauldron",
+        "shortname": "cursedcauldron"
+    },
+    "1248356124": {
+        "link": "https://rustlabs.com/img/items180/explosive.timed.png",
+        "name": "Timed Explosive Charge",
+        "shortname": "explosive.timed"
+    },
+    "1258768145": {
+        "link": "https://rustlabs.com/img/items180/sunglasses02black.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses02black"
+    },
+    "1259919256": {
+        "link": "https://rustlabs.com/img/items180/mixingtable.png",
+        "name": "Mixing Table",
+        "shortname": "mixingtable"
+    },
+    "1263920163": {
+        "link": "https://rustlabs.com/img/items180/grenade.smoke.png",
+        "name": "Smoke Grenade",
+        "shortname": "grenade.smoke"
+    },
+    "1266491000": {
+        "link": "https://rustlabs.com/img/items180/hazmatsuit.png",
+        "name": "Hazmat Suit",
+        "shortname": "hazmatsuit"
+    },
+    "1272194103": {
+        "link": "https://rustlabs.com/img/items180/red.berry.png",
+        "name": "Red Berry",
+        "shortname": "red.berry"
+    },
+    "1272430949": {
+        "link": "https://rustlabs.com/img/items180/piano.png",
+        "name": "Wheelbarrow Piano",
+        "shortname": "piano"
+    },
+    "1272768630": {
+        "link": "https://rustlabs.com/img/items180/humanmeat.spoiled.png",
+        "name": "Spoiled Human Meat",
+        "shortname": "humanmeat.spoiled"
+    },
+    "1293102274": {
+        "link": "https://rustlabs.com/img/items180/electric.xorswitch.png",
+        "name": "XOR Switch",
+        "shortname": "electric.xorswitch"
+    },
+    "1305578813": {
+        "link": "https://rustlabs.com/img/items180/sign.neon.125x125.png",
+        "name": "Small Neon Sign",
+        "shortname": "sign.neon.125x125"
+    },
+    "1315082560": {
+        "link": "https://rustlabs.com/img/items180/hat.oxmask.png",
+        "name": "Ox Mask",
+        "shortname": "hat.oxmask"
+    },
+    "1318558775": {
+        "link": "https://rustlabs.com/img/items180/smg.mp5.png",
+        "name": "MP5A4",
+        "shortname": "smg.mp5"
+    },
+    "1319617282": {
+        "link": "https://rustlabs.com/img/items180/halloween.lootbag.small.png",
+        "name": "Small Loot Bag",
+        "shortname": "halloween.lootbag.small"
+    },
+    "1324203999": {
+        "link": "https://rustlabs.com/img/items180/firework.boomer.champagne.png",
+        "name": "Champagne Boomer",
+        "shortname": "firework.boomer.champagne"
+    },
+    "1326180354": {
+        "link": "https://rustlabs.com/img/items180/salvaged.sword.png",
+        "name": "Salvaged Sword",
+        "shortname": "salvaged.sword"
+    },
+    "1327005675": {
+        "link": "https://rustlabs.com/img/items180/wall.ice.wall.png",
+        "name": "Short Ice Wall",
+        "shortname": "wall.ice.wall"
+    },
+    "1330084809": {
+        "link": "https://rustlabs.com/img/items180/valve1.png",
+        "name": "Low Quality Valves",
+        "shortname": "valve1"
+    },
+    "1346158228": {
+        "link": "https://rustlabs.com/img/items180/pumpkinbasket.png",
+        "name": "Pumpkin Bucket",
+        "shortname": "pumpkinbasket"
+    },
+    "1353298668": {
+        "link": "https://rustlabs.com/img/items180/door.hinged.toptier.png",
+        "name": "Armored Door",
+        "shortname": "door.hinged.toptier"
+    },
+    "1358643074": {
+        "link": "https://rustlabs.com/img/items180/snowmachine.png",
+        "name": "Snow Machine",
+        "shortname": "snowmachine"
+    },
+    "1366282552": {
+        "link": "https://rustlabs.com/img/items180/burlap.gloves.png",
+        "name": "Leather Gloves",
+        "shortname": "burlap.gloves"
+    },
+    "1367190888": {
+        "link": "https://rustlabs.com/img/items180/corn.png",
+        "name": "Corn",
+        "shortname": "corn"
+    },
+    "1371909803": {
+        "link": "https://rustlabs.com/img/items180/electric.teslacoil.png",
+        "name": "Tesla Coil",
+        "shortname": "electric.teslacoil"
+    },
+    "1373240771": {
+        "link": "https://rustlabs.com/img/items180/barricade.wood.cover.png",
+        "name": "Wooden Barricade Cover",
+        "shortname": "barricade.wood.cover"
+    },
+    "1373971859": {
+        "link": "https://rustlabs.com/img/items180/pistol.python.png",
+        "name": "Python Revolver",
+        "shortname": "pistol.python"
+    },
+    "1376065505": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.rear.seats.png",
+        "name": "Rear Seats Vehicle Module",
+        "shortname": "vehicle.1mod.rear.seats"
+    },
+    "1381010055": {
+        "link": "https://rustlabs.com/img/items180/leather.png",
+        "name": "Leather",
+        "shortname": "leather"
+    },
+    "1382263453": {
+        "link": "https://rustlabs.com/img/items180/barricade.woodwire.png",
+        "name": "Barbed Wooden Barricade",
+        "shortname": "barricade.woodwire"
+    },
+    "1390353317": {
+        "link": "https://rustlabs.com/img/items180/door.double.hinged.metal.png",
+        "name": "Sheet Metal Double Door",
+        "shortname": "door.double.hinged.metal"
+    },
+    "1391703481": {
+        "link": "https://rustlabs.com/img/items180/meat.pork.burned.png",
+        "name": "Burnt Pork",
+        "shortname": "meat.pork.burned"
+    },
+    "1397052267": {
+        "link": "https://rustlabs.com/img/items180/supply.signal.png",
+        "name": "Supply Signal",
+        "shortname": "supply.signal"
+    },
+    "1400460850": {
+        "link": "https://rustlabs.com/img/items180/horse.saddlebag.png",
+        "name": "Saddle bag",
+        "shortname": "horse.saddlebag"
+    },
+    "1401987718": {
+        "link": "https://rustlabs.com/img/items180/ducttape.png",
+        "name": "Duct Tape",
+        "shortname": "ducttape"
+    },
+    "1409529282": {
+        "link": "https://rustlabs.com/img/items180/door.closer.png",
+        "name": "Door Closer",
+        "shortname": "door.closer"
+    },
+    "1413014235": {
+        "link": "https://rustlabs.com/img/items180/fridge.png",
+        "name": "Fridge",
+        "shortname": "fridge"
+    },
+    "1414245162": {
+        "link": "https://rustlabs.com/img/items180/note.png",
+        "name": "Note",
+        "shortname": "note"
+    },
+    "1414245522": {
+        "link": "https://rustlabs.com/img/items180/rope.png",
+        "name": "Rope",
+        "shortname": "rope"
+    },
+    "1422530437": {
+        "link": "https://rustlabs.com/img/items180/deermeat.raw.png",
+        "name": "Raw Deer Meat",
+        "shortname": "deermeat.raw"
+    },
+    "1424075905": {
+        "link": "https://rustlabs.com/img/items180/bucket.water.png",
+        "name": "Water Bucket",
+        "shortname": "bucket.water"
+    },
+    "1426574435": {
+        "link": "https://rustlabs.com/img/items180/minihelicopter.repair.png",
+        "name": "MC repair",
+        "shortname": "minihelicopter.repair"
+    },
+    "1443579727": {
+        "link": "https://rustlabs.com/img/items180/bow.hunting.png",
+        "name": "Hunting Bow",
+        "shortname": "bow.hunting"
+    },
+    "1451568081": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.fence.gate.png",
+        "name": "Chainlink Fence Gate",
+        "shortname": "wall.frame.fence.gate"
+    },
+    "1478091698": {
+        "link": "https://rustlabs.com/img/items180/weapon.mod.muzzlebrake.png",
+        "name": "Muzzle Brake",
+        "shortname": "weapon.mod.muzzlebrake"
+    },
+    "1480022580": {
+        "link": "https://rustlabs.com/img/items180/oretea.png",
+        "name": "Basic Ore Tea",
+        "shortname": "oretea"
+    },
+    "1488979457": {
+        "link": "https://rustlabs.com/img/items180/jackhammer.png",
+        "name": "Jackhammer",
+        "shortname": "jackhammer"
+    },
+    "1491189398": {
+        "link": "https://rustlabs.com/img/items180/paddle.png",
+        "name": "Paddle",
+        "shortname": "paddle"
+    },
+    "1512054436": {
+        "link": "https://rustlabs.com/img/items180/clone.potato.png",
+        "name": "Potato Clone",
+        "shortname": "clone.potato"
+    },
+    "1516985844": {
+        "link": "https://rustlabs.com/img/items180/wall.frame.netting.png",
+        "name": "Netting",
+        "shortname": "wall.frame.netting"
+    },
+    "1521286012": {
+        "link": "https://rustlabs.com/img/items180/sign.post.double.png",
+        "name": "Double Sign Post",
+        "shortname": "sign.post.double"
+    },
+    "1523195708": {
+        "link": "https://rustlabs.com/img/items180/targeting.computer.png",
+        "name": "Targeting Computer",
+        "shortname": "targeting.computer"
+    },
+    "1523403414": {
+        "link": "https://rustlabs.com/img/items180/cassette.short.png",
+        "name": "Cassette - Short",
+        "shortname": "cassette.short"
+    },
+    "1524187186": {
+        "link": "https://rustlabs.com/img/items180/workbench1.png",
+        "name": "Work Bench Level 1",
+        "shortname": "workbench1"
+    },
+    "1525520776": {
+        "link": "https://rustlabs.com/img/items180/building.planner.png",
+        "name": "Building Plan",
+        "shortname": "building.planner"
+    },
+    "1533551194": {
+        "link": "https://rustlabs.com/img/items180/clone.white.berry.png",
+        "name": "White Berry Clone",
+        "shortname": "clone.white.berry"
+    },
+    "1534542921": {
+        "link": "https://rustlabs.com/img/items180/chair.png",
+        "name": "Chair",
+        "shortname": "chair"
+    },
+    "1536610005": {
+        "link": "https://rustlabs.com/img/items180/humanmeat.cooked.png",
+        "name": "Cooked Human Meat",
+        "shortname": "humanmeat.cooked"
+    },
+    "1540934679": {
+        "link": "https://rustlabs.com/img/items180/spear.wooden.png",
+        "name": "Wooden Spear",
+        "shortname": "spear.wooden"
+    },
+    "1542290441": {
+        "link": "https://rustlabs.com/img/items180/sign.post.single.png",
+        "name": "Single Sign Post",
+        "shortname": "sign.post.single"
+    },
+    "1545779598": {
+        "link": "https://rustlabs.com/img/items180/rifle.ak.png",
+        "name": "Assault Rifle",
+        "shortname": "rifle.ak"
+    },
+    "1548091822": {
+        "link": "https://rustlabs.com/img/items180/apple.png",
+        "name": "Apple",
+        "shortname": "apple"
+    },
+    "1553078977": {
+        "link": "https://rustlabs.com/img/items180/bleach.png",
+        "name": "Bleach",
+        "shortname": "bleach"
+    },
+    "1557173737": {
+        "link": "https://rustlabs.com/img/items180/sunglasses02red.png",
+        "name": "Sunglasses",
+        "shortname": "sunglasses02red"
+    },
+    "1559779253": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.engine.png",
+        "name": "Engine Vehicle Module",
+        "shortname": "vehicle.1mod.engine"
+    },
+    "1568388703": {
+        "link": "https://rustlabs.com/img/items180/diesel_barrel.png",
+        "name": "Diesel Fuel",
+        "shortname": "diesel_barrel"
+    },
+    "1569882109": {
+        "link": "https://rustlabs.com/img/items180/fishingrod.handmade.png",
+        "name": "Handmade Fishing Rod",
+        "shortname": "fishingrod.handmade"
+    },
+    "1581210395": {
+        "link": "https://rustlabs.com/img/items180/planter.large.png",
+        "name": "Large Planter Box",
+        "shortname": "planter.large"
+    },
+    "1588298435": {
+        "link": "https://rustlabs.com/img/items180/rifle.bolt.png",
+        "name": "Bolt Action Rifle",
+        "shortname": "rifle.bolt"
+    },
+    "1588492232": {
+        "link": "https://rustlabs.com/img/items180/drone.png",
+        "name": "Drone",
+        "shortname": "drone"
+    },
+    "1601468620": {
+        "link": "https://rustlabs.com/img/items180/jumpsuit.suit.blue.png",
+        "name": "Blue Jumpsuit",
+        "shortname": "jumpsuit.suit.blue"
+    },
+    "1602646136": {
+        "link": "https://rustlabs.com/img/items180/spear.stone.png",
+        "name": "Stone Spear",
+        "shortname": "spear.stone"
+    },
+    "1608640313": {
+        "link": "https://rustlabs.com/img/items180/shirt.tanktop.png",
+        "name": "Tank Top",
+        "shortname": "shirt.tanktop"
+    },
+    "1629293099": {
+        "link": "https://rustlabs.com/img/items180/snowman.png",
+        "name": "Snowman",
+        "shortname": "snowman"
+    },
+    "1638322904": {
+        "link": "https://rustlabs.com/img/items180/ammo.rocket.fire.png",
+        "name": "Incendiary Rocket",
+        "shortname": "ammo.rocket.fire"
+    },
+    "1643667218": {
+        "link": "https://rustlabs.com/img/items180/sign.neon.xl.animated.png",
+        "name": "Large Animated Neon Sign",
+        "shortname": "sign.neon.xl.animated"
+    },
+    "1655650836": {
+        "link": "https://rustlabs.com/img/items180/barricade.metal.png",
+        "name": "Metal Barricade",
+        "shortname": "barricade.metal"
+    },
+    "1655979682": {
+        "link": "https://rustlabs.com/img/items180/can.beans.empty.png",
+        "name": "Empty Can Of Beans",
+        "shortname": "can.beans.empty"
+    },
+    "1658229558": {
+        "link": "https://rustlabs.com/img/items180/lantern.png",
+        "name": "Lantern",
+        "shortname": "lantern"
+    },
+    "1659114910": {
+        "link": "https://rustlabs.com/img/items180/hat.gas.mask.png",
+        "name": "Gas Mask",
+        "shortname": "hat.gas.mask"
+    },
+    "1659447559": {
+        "link": "https://rustlabs.com/img/items180/horse.armor.wood.png",
+        "name": "Wooden Horse Armor",
+        "shortname": "horse.armor.wood"
+    },
+    "1660145984": {
+        "link": "https://rustlabs.com/img/items180/yellow.berry.png",
+        "name": "Yellow Berry",
+        "shortname": "yellow.berry"
+    },
+    "1668129151": {
+        "link": "https://rustlabs.com/img/items180/fish.cooked.png",
+        "name": "Cooked Fish",
+        "shortname": "fish.cooked"
+    },
+    "1668858301": {
+        "link": "https://rustlabs.com/img/items180/stocking.small.png",
+        "name": "Small Stocking",
+        "shortname": "stocking.small"
+    },
+    "1675639563": {
+        "link": "https://rustlabs.com/img/items180/hat.beenie.png",
+        "name": "Beenie Hat",
+        "shortname": "hat.beenie"
+    },
+    "1686524871": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.gingerbreadmen.png",
+        "name": "Decorative Gingerbread Men",
+        "shortname": "xmas.decoration.gingerbreadmen"
+    },
+    "1696050067": {
+        "link": "https://rustlabs.com/img/items180/modularcarlift.png",
+        "name": "Modular Car Lift",
+        "shortname": "modularcarlift"
+    },
+    "1697996440": {
+        "link": "https://rustlabs.com/img/items180/photoframe.landscape.png",
+        "name": "Landscape Photo Frame",
+        "shortname": "photoframe.landscape"
+    },
+    "1711033574": {
+        "link": "https://rustlabs.com/img/items180/bone.club.png",
+        "name": "Bone Club",
+        "shortname": "bone.club"
+    },
+    "1712070256": {
+        "link": "https://rustlabs.com/img/items180/ammo.rifle.hv.png",
+        "name": "HV 5.56 Rifle Ammo",
+        "shortname": "ammo.rifle.hv"
+    },
+    "1712261904": {
+        "link": "https://rustlabs.com/img/items180/maxhealthtea.pure.png",
+        "name": "Pure Max Health Tea",
+        "shortname": "maxhealthtea.pure"
+    },
+    "1714496074": {
+        "link": "https://rustlabs.com/img/items180/hat.candle.png",
+        "name": "Candle Hat",
+        "shortname": "hat.candle"
+    },
+    "1719978075": {
+        "link": "https://rustlabs.com/img/items180/bone.fragments.png",
+        "name": "Bone Fragments",
+        "shortname": "bone.fragments"
+    },
+    "1722154847": {
+        "link": "https://rustlabs.com/img/items180/attire.hide.pants.png",
+        "name": "Hide Pants",
+        "shortname": "attire.hide.pants"
+    },
+    "1723747470": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.lights.png",
+        "name": "Tree Lights",
+        "shortname": "xmas.decoration.lights"
+    },
+    "1729120840": {
+        "link": "https://rustlabs.com/img/items180/door.hinged.wood.png",
+        "name": "Wooden Door",
+        "shortname": "door.hinged.wood"
+    },
+    "1729374708": {
+        "link": "https://rustlabs.com/img/items180/oretea.pure.png",
+        "name": "Pure Ore Tea",
+        "shortname": "oretea.pure"
+    },
+    "1729712564": {
+        "link": "https://rustlabs.com/img/items180/photoframe.portrait.png",
+        "name": "Portrait Photo Frame",
+        "shortname": "photoframe.portrait"
+    },
+    "1735402444": {
+        "link": "https://rustlabs.com/img/items180/discofloor.largetiles.png",
+        "name": "Disco Floor",
+        "shortname": "discofloor.largetiles"
+    },
+    "1744298439": {
+        "link": "https://rustlabs.com/img/items180/firework.boomer.blue.png",
+        "name": "Blue Boomer",
+        "shortname": "firework.boomer.blue"
+    },
+    "1746956556": {
+        "link": "https://rustlabs.com/img/items180/bone.armor.suit.png",
+        "name": "Bone Armor",
+        "shortname": "bone.armor.suit"
+    },
+    "1751045826": {
+        "link": "https://rustlabs.com/img/items180/hoodie.png",
+        "name": "Hoodie",
+        "shortname": "hoodie"
+    },
+    "1757265204": {
+        "link": "https://rustlabs.com/img/items180/easter.silveregg.png",
+        "name": "Silver Egg",
+        "shortname": "easter.silveregg"
+    },
+    "1770475779": {
+        "link": "https://rustlabs.com/img/items180/worm.png",
+        "name": "Worm",
+        "shortname": "worm"
+    },
+    "1770744540": {
+        "link": "https://rustlabs.com/img/items180/vehicle.chassis.png",
+        "name": "Generic vehicle chassis",
+        "shortname": "vehicle.chassis"
+    },
+    "1771755747": {
+        "link": "https://rustlabs.com/img/items180/black.berry.png",
+        "name": "Black Berry",
+        "shortname": "black.berry"
+    },
+    "1776460938": {
+        "link": "https://rustlabs.com/img/items180/blood.png",
+        "name": "Blood",
+        "shortname": "blood"
+    },
+    "1783512007": {
+        "link": "https://rustlabs.com/img/items180/cactusflesh.png",
+        "name": "Cactus Flesh",
+        "shortname": "cactusflesh"
+    },
+    "1784406797": {
+        "link": "https://rustlabs.com/img/items180/fun.tuba.png",
+        "name": "Sousaphone",
+        "shortname": "fun.tuba"
+    },
+    "1789825282": {
+        "link": "https://rustlabs.com/img/items180/candycaneclub.png",
+        "name": "Candy Cane Club",
+        "shortname": "candycaneclub"
+    },
+    "1796682209": {
+        "link": "https://rustlabs.com/img/items180/smg.2.png",
+        "name": "Custom SMG",
+        "shortname": "smg.2"
+    },
+    "1803831286": {
+        "link": "https://rustlabs.com/img/items180/toolgun.png",
+        "name": "Garry's Mod Tool Gun",
+        "shortname": "toolgun"
+    },
+    "1814288539": {
+        "link": "https://rustlabs.com/img/items180/knife.bone.png",
+        "name": "Bone Knife",
+        "shortname": "knife.bone"
+    },
+    "1827479659": {
+        "link": "https://rustlabs.com/img/items180/wolfmeat.burned.png",
+        "name": "Burnt Wolf Meat",
+        "shortname": "wolfmeat.burned"
+    },
+    "1835946060": {
+        "link": "https://rustlabs.com/img/items180/electric.cabletunnel.png",
+        "name": "Cable Tunnel",
+        "shortname": "electric.cabletunnel"
+    },
+    "1840570710": {
+        "link": "https://rustlabs.com/img/items180/abovegroundpool.png",
+        "name": "Above Ground Pool",
+        "shortname": "abovegroundpool"
+    },
+    "1840822026": {
+        "link": "https://rustlabs.com/img/items180/grenade.beancan.png",
+        "name": "Beancan Grenade",
+        "shortname": "grenade.beancan"
+    },
+    "1849887541": {
+        "link": "https://rustlabs.com/img/items180/electric.fuelgenerator.small.png",
+        "name": "Small Generator",
+        "shortname": "electric.fuelgenerator.small"
+    },
+    "1850456855": {
+        "link": "https://rustlabs.com/img/items180/roadsign.kilt.png",
+        "name": "Road Sign Kilt",
+        "shortname": "roadsign.kilt"
+    },
+    "1856217390": {
+        "link": "https://rustlabs.com/img/items180/easterbasket.png",
+        "name": "Egg Basket",
+        "shortname": "easterbasket"
+    },
+    "1873897110": {
+        "link": "https://rustlabs.com/img/items180/bearmeat.cooked.png",
+        "name": "Cooked Bear Meat",
+        "shortname": "bearmeat.cooked"
+    },
+    "1874610722": {
+        "link": "https://rustlabs.com/img/items180/vehicle.1mod.cockpit.armored.png",
+        "name": "Armored Cockpit Vehicle Module",
+        "shortname": "vehicle.1mod.cockpit.armored"
+    },
+    "1877339384": {
+        "link": "https://rustlabs.com/img/items180/burlap.headwrap.png",
+        "name": "Burlap Headwrap",
+        "shortname": "burlap.headwrap"
+    },
+    "1882709339": {
+        "link": "https://rustlabs.com/img/items180/metalblade.png",
+        "name": "Metal Blade",
+        "shortname": "metalblade"
+    },
+    "1883981798": {
+        "link": "https://rustlabs.com/img/items180/piston1.png",
+        "name": "Low Quality Pistons",
+        "shortname": "piston1"
+    },
+    "1883981800": {
+        "link": "https://rustlabs.com/img/items180/piston3.png",
+        "name": "High Quality Pistons",
+        "shortname": "piston3"
+    },
+    "1883981801": {
+        "link": "https://rustlabs.com/img/items180/piston2.png",
+        "name": "Medium Quality Pistons",
+        "shortname": "piston2"
+    },
+    "1885488976": {
+        "link": "https://rustlabs.com/img/items180/spookyspeaker.png",
+        "name": "Spooky Speaker",
+        "shortname": "spookyspeaker"
+    },
+    "1895235349": {
+        "link": "https://rustlabs.com/img/items180/discoball.png",
+        "name": "Disco Ball",
+        "shortname": "discoball"
+    },
+    "1898094925": {
+        "link": "https://rustlabs.com/img/items180/clone.pumpkin.png",
+        "name": "Pumpkin Plant Clone",
+        "shortname": "clone.pumpkin"
+    },
+    "1899610628": {
+        "link": "https://rustlabs.com/img/items180/halloween.lootbag.medium.png",
+        "name": "Medium Loot Bag",
+        "shortname": "halloween.lootbag.medium"
+    },
+    "1903654061": {
+        "link": "https://rustlabs.com/img/items180/planter.small.png",
+        "name": "Small Planter Box",
+        "shortname": "planter.small"
+    },
+    "1905387657": {
+        "link": "https://rustlabs.com/img/items180/radiationremovetea.pure.png",
+        "name": "Pure Rad. Removal Tea",
+        "shortname": "radiationremovetea.pure"
+    },
+    "1911552868": {
+        "link": "https://rustlabs.com/img/items180/seed.black.berry.png",
+        "name": "Black Berry Seed",
+        "shortname": "seed.black.berry"
+    },
+    "1917703890": {
+        "link": "https://rustlabs.com/img/items180/horsemeat.burned.png",
+        "name": "Burnt Horse Meat",
+        "shortname": "horsemeat.burned"
+    },
+    "1931713481": {
+        "link": "https://rustlabs.com/img/items180/black.raspberries.png",
+        "name": "Black Raspberries",
+        "shortname": "black.raspberries"
+    },
+    "1946219319": {
+        "link": "https://rustlabs.com/img/items180/campfire.png",
+        "name": "Camp Fire",
+        "shortname": "campfire"
+    },
+    "1948067030": {
+        "link": "https://rustlabs.com/img/items180/floor.ladder.hatch.png",
+        "name": "Ladder Hatch",
+        "shortname": "floor.ladder.hatch"
+    },
+    "1950721418": {
+        "link": "https://rustlabs.com/img/items180/shelves.png",
+        "name": "Salvaged Shelves",
+        "shortname": "shelves"
+    },
+    "1951603367": {
+        "link": "https://rustlabs.com/img/items180/electric.switch.png",
+        "name": "Switch",
+        "shortname": "electric.switch"
+    },
+    "1953903201": {
+        "link": "https://rustlabs.com/img/items180/pistol.nailgun.png",
+        "name": "Nailgun",
+        "shortname": "pistol.nailgun"
+    },
+    "1965232394": {
+        "link": "https://rustlabs.com/img/items180/crossbow.png",
+        "name": "Crossbow",
+        "shortname": "crossbow"
+    },
+    "1973165031": {
+        "link": "https://rustlabs.com/img/items180/cakefiveyear.png",
+        "name": "Birthday Cake",
+        "shortname": "cakefiveyear"
+    },
+    "1973684065": {
+        "link": "https://rustlabs.com/img/items180/chicken.burned.png",
+        "name": "Burnt Chicken",
+        "shortname": "chicken.burned"
+    },
+    "1975934948": {
+        "link": "https://rustlabs.com/img/items180/surveycharge.png",
+        "name": "Survey Charge",
+        "shortname": "surveycharge"
+    },
+    "1983621560": {
+        "link": "https://rustlabs.com/img/items180/floor.triangle.grill.png",
+        "name": "Floor triangle grill",
+        "shortname": "floor.triangle.grill"
+    },
+    "1989785143": {
+        "link": "https://rustlabs.com/img/items180/horse.shoes.advanced.png",
+        "name": "High Quality Horse Shoes",
+        "shortname": "horse.shoes.advanced"
+    },
+    "1992974553": {
+        "link": "https://rustlabs.com/img/items180/burlap.trousers.png",
+        "name": "Burlap Trousers",
+        "shortname": "burlap.trousers"
+    },
+    "2009734114": {
+        "link": "https://rustlabs.com/img/items180/xmasdoorwreath.png",
+        "name": "Christmas Door Wreath",
+        "shortname": "xmasdoorwreath"
+    },
+    "2019042823": {
+        "link": "https://rustlabs.com/img/items180/tarp.png",
+        "name": "Tarp",
+        "shortname": "tarp"
+    },
+    "2021351233": {
+        "link": "https://rustlabs.com/img/items180/radiationremovetea.advanced.png",
+        "name": "Advanced Rad. Removal Tea",
+        "shortname": "radiationremovetea.advanced"
+    },
+    "2023888403": {
+        "link": "https://rustlabs.com/img/items180/electric.battery.rechargable.medium.png",
+        "name": "Medium Rechargeable Battery",
+        "shortname": "electric.battery.rechargable.medium"
+    },
+    "2024467711": {
+        "link": "https://rustlabs.com/img/items180/scraptea.pure.png",
+        "name": "Pure Scrap Tea",
+        "shortname": "scraptea.pure"
+    },
+    "2040726127": {
+        "link": "https://rustlabs.com/img/items180/knife.combat.png",
+        "name": "Combat Knife",
+        "shortname": "knife.combat"
+    },
+    "2041899972": {
+        "link": "https://rustlabs.com/img/items180/floor.triangle.ladder.hatch.png",
+        "name": "Triangle Ladder Hatch",
+        "shortname": "floor.triangle.ladder.hatch"
+    },
+    "2048317869": {
+        "link": "https://rustlabs.com/img/items180/skull.wolf.png",
+        "name": "Wolf Skull",
+        "shortname": "skull.wolf"
+    },
+    "2052270186": {
+        "link": "https://rustlabs.com/img/items180/innertube.unicorn.png",
+        "name": "Inner Tube",
+        "shortname": "innertube.unicorn"
+    },
+    "2063916636": {
+        "link": "https://rustlabs.com/img/items180/oretea.advanced.png",
+        "name": "Advanced Ore Tea",
+        "shortname": "oretea.advanced"
+    },
+    "2070189026": {
+        "link": "https://rustlabs.com/img/items180/sign.pole.banner.large.png",
+        "name": "Large Banner on pole",
+        "shortname": "sign.pole.banner.large"
+    },
+    "2087678962": {
+        "link": "https://rustlabs.com/img/items180/searchlight.png",
+        "name": "Search Light",
+        "shortname": "searchlight"
+    },
+    "2090395347": {
+        "link": "https://rustlabs.com/img/items180/electric.solarpanel.large.png",
+        "name": "Large Solar Panel",
+        "shortname": "electric.solarpanel.large"
+    },
+    "2100007442": {
+        "link": "https://rustlabs.com/img/items180/electric.audioalarm.png",
+        "name": "Audio Alarm",
+        "shortname": "electric.audioalarm"
+    },
+    "2104517339": {
+        "link": "https://rustlabs.com/img/items180/strobelight.png",
+        "name": "Strobe Light",
+        "shortname": "strobelight"
+    },
+    "2106561762": {
+        "link": "https://rustlabs.com/img/items180/xmas.decoration.tinsel.png",
+        "name": "Decorative Tinsel",
+        "shortname": "xmas.decoration.tinsel"
+    },
+    "2114754781": {
+        "link": "https://rustlabs.com/img/items180/water.purifier.png",
+        "name": "Water Purifier",
+        "shortname": "water.purifier"
+    },
+    "2126889441": {
+        "link": "https://rustlabs.com/img/items180/santabeard.png",
+        "name": "Santa Beard",
+        "shortname": "santabeard"
+    },
+    "2133269020": {
+        "link": "https://rustlabs.com/img/items180/clone.red.berry.png",
+        "name": "Red Berry Clone",
+        "shortname": "clone.red.berry"
+    },
+    "-1843426638": {
+        "link": "https://rustlabs.com/img/items180/ammo.rocket.mlrs.png",
+        "name": "MLRS Rocket",
+        "shortname": "mlrs-rocket"
+    }
+}

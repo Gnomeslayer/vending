@@ -1,0 +1,49 @@
+{
+    "tokens": {
+        "discord_token": ""
+    },
+    "additional": {
+        "prefix": "-",
+        "application_id": 1234
+    },
+    "cogs": {
+        "color": "0x9b59b6"
+    },
+    "servers": [
+        {
+            "name": "Rustafied.com - US Long",
+            "ip": "199.231.233.101",
+            "playerId": "76561198151275725",
+            "playerToken": "1405077469",
+            "port": "28017"
+        },
+        {
+            "name": "Rustafied.com - AU Main",
+            "ip": "172.111.33.3",
+            "playerId": "76561198151275725",
+            "playerToken": "-1656394299",
+            "port": "28017"
+        }
+    ],
+    "fcm_details": {
+            "expo_push_token": "",
+            "fcm_credentials": {
+                "fcm": {
+                    "pushSet": "",
+                    "token": ":---"
+                },
+                "gcm": {
+                    "androidId": "",
+                    "appId": "",
+                    "securityToken": "",
+                    "token": ":"
+                },
+                "keys": {
+                    "private": "",
+                    "public": "-",
+                    "secret": ""
+                }
+            },
+            "rustplus_auth_token": ""
+        }
+}
